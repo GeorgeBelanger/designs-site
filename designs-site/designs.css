@@ -199,17 +199,17 @@ body:not(.mob) .unit:not(.decorative):not(.activated):hover {
     margin: 30%
 }
 
-.facebook svg,.linkedin svg {
+.github svg,.linkedin svg {
     fill: #fff;
     width: 28%;
     height: 28%
 }
 
-.facebook .data {
-    background-color: #4965a0
+.github .data {
+    background-color: #FFF
 }
 
-.facebook svg {
+.github svg {
     margin: 55% 36% 0
 }
 
@@ -446,7 +446,7 @@ p.dataText span.dataTxtShift {
     background-color: #1c032b
 }
 
-.detailsView.colorized .activated,.detailsView.colorized .facebook,.detailsView.colorized .linkedin {
+.detailsView.colorized .activated,.detailsView.colorized .github,.detailsView.colorized .linkedin {
     z-index: 99
 }
 

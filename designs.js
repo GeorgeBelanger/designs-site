@@ -30,14 +30,18 @@ window.mobileAndTabletcheck = function() {
   var detailsViewReady=false;
   var canCloseDetails=false;
 //   var apiLink="http://localhost:8080/slamz/wp-json/wp/v2/";
-  var apiLink="http://www.slamdesignz.com/wp-json/wp/v2/";
+//   var apiLink="http://www.slamdesignz.com/wp-json/wp/v2/";
+  var apiLink="http://127.0.0.1:5500/personalReactSite/";
   var imagesPromises=[];
   var preloader=document.getElementById('preloader');
   var unitsAreLoaded=false;
   
   globalPreloading();
   
-  readTextFile(apiLink+'item?per_page=100&order=asc&fields=id,slug,title.rendered,content,havesvg,cssclass,svgcode,goexternal,externallink,itemthumb,wpcf-date-cover,order,wpcf-decorative,itemshiftedthumbnail', function(text){
+//   readTextFile(apiLink+'item?per_page=100&order=asc&fields=id,slug,title.rendered,content,havesvg,cssclass,svgcode,goexternal,externallink,itemthumb,wpcf-date-cover,order,wpcf-decorative,itemshiftedthumbnail', function(text){
+  console.time('tiles')
+  readTextFile('https://4l7ebvaa12.execute-api.us-east-2.amazonaws.com/Dev/tiles', function(text){
+    console.timeEnd('tiles')
     data = JSON.parse(text);
     console.log(data)
     totalUnits = data.length;
@@ -58,8 +62,13 @@ window.mobileAndTabletcheck = function() {
     data.sort(sort_by('order', false, parseInt));
   
     //Request all details
-    readTextFile(apiLink+"item-detail?per_page=100&fields=id,wpcf_details_data._wpcf_belongs_item_id,wpcf_details_data.wpcf-details-data,wpcf_details_data.wpcf-is-image,wpcf_details_data.wpcf-background-color,wpcf_details_data.wpcf-horizontal-show,wpcf_details_data.wpcf-live-link,wpcf_details_data.wpcf-live-link-url", function(text){
+    console.time("articles");
+    // readTextFile(apiLink+"item-detail?per_page=100&fields=id,wpcf_details_data._wpcf_belongs_item_id,wpcf_details_data.wpcf-details-data,wpcf_details_data.wpcf-is-image,wpcf_details_data.wpcf-background-color,wpcf_details_data.wpcf-horizontal-show,wpcf_details_data.wpcf-live-link,wpcf_details_data.wpcf-live-link-url", function(text){
+    
+    readTextFile('https://4l7ebvaa12.execute-api.us-east-2.amazonaws.com/Dev/articles', function(text){
+      console.timeEnd("articles")
       unfilteredDetailsData = JSON.parse(text);
+      console.log(unfilteredDetailsData)
       draw(data);
     });
   });
@@ -110,7 +119,10 @@ window.mobileAndTabletcheck = function() {
   }
   
   function draw(theData){
-    var unitsPerColumn = 3;
+    var unitsPerColumn = 2;
+    if(mobileAndTabletcheck()){
+        unitsPerColumn = 3;
+    }
     var availableHeight = window.innerHeight;
     var unitHeight = availableHeight / unitsPerColumn;
     var totalColumns = Math.ceil(totalUnits / unitsPerColumn);

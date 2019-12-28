@@ -291,7 +291,7 @@ window.mobileAndTabletcheck = function() {
   
     //must be not already activated
     var activate=false;
-    if(unit.classList.contains('activated')||unit.classList.contains('logo')||unit.classList.contains('facebook')||unit.classList.contains('linkedin')||unit.classList.contains('info')||unit.classList.contains('decorative')){
+    if(unit.classList.contains('activated')||unit.classList.contains('logo')||unit.classList.contains('github')||unit.classList.contains('linkedin')||unit.classList.contains('info')||unit.classList.contains('decorative')){
       activate=true;
     }
     if(!activate){
@@ -599,7 +599,7 @@ window.mobileAndTabletcheck = function() {
   }
   
   function randomHide(theVisableUnit){
-    var allUnits=document.querySelectorAll('.unit:not(.info):not(.facebook):not(.linkedin):not(.logo)');
+    var allUnits=document.querySelectorAll('.unit:not(.info):not(.github):not(.linkedin):not(.logo)');
     var i;
     for(i=0;i<allUnits.length;i++)
     {
@@ -628,7 +628,7 @@ window.mobileAndTabletcheck = function() {
   }
   function randomShow(initial){
     if(!initial)
-      var allUnits=document.querySelectorAll('.unit:not(.info):not(.facebook):not(.linkedin):not(.logo)');
+      var allUnits=document.querySelectorAll('.unit:not(.info):not(.github):not(.linkedin):not(.logo)');
     else
       var allUnits=document.querySelectorAll('.unit');
     var i;
@@ -706,7 +706,6 @@ window.mobileAndTabletcheck = function() {
   //Reload on Resize to recalculate every thing
   //window.onresize = function(){ location.reload(); }
 
-  window.onload = init;
 
 function init() {
   var root = new THREERoot({
@@ -768,6 +767,7 @@ function generateTextGeometry(text, params) {
   geometry.computeBoundingBox();
 
   var size = geometry.boundingBox.size();
+  console.log(size)
   var anchorX = size.x * -params.anchor.x;
   var anchorY = size.y * -params.anchor.y;
   var anchorZ = size.z * -params.anchor.z;
@@ -888,8 +888,9 @@ function TextAnimation(textGeometry) {
     }
   );
 
+  
   THREE.Mesh.call(this, bufferGeometry, material);
-
+  this.position.set(0,135,0)
   this.frustumCulled = false;
 }
 TextAnimation.prototype = Object.create(THREE.Mesh.prototype);
@@ -928,6 +929,7 @@ function THREERoot(params) {
   );
 
   this.scene = new THREE.Scene();
+  
 
   if (params.createCameraControls) {
     this.controls = new THREE.OrbitControls(this.camera, this.renderer.domElement);
@@ -952,6 +954,7 @@ THREERoot.prototype = {
   },
   render: function() {
     this.renderer.render(this.scene, this.camera);
+    window.scene = this.scene;
   },
   resize: function() {
     this.camera.aspect = window.innerWidth / window.innerHeight;
@@ -1030,13 +1033,13 @@ function createTweenScrubber(tween, seekSpeed) {
   window.addEventListener('mousedown', function(e) {
     mouseDown = true;
     resume();
-    removePreloader();
   });
  
   // mobile
   window.addEventListener('touchstart', function(e) {
     resume();
-    removePreloader();
   });
 
 }
+preloader.addEventListener('click', removePreloader)
+init();

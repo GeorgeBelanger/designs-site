@@ -100,17 +100,17 @@ window.mobileAndTabletcheck = function() {
   }
   function globalPreloading(){
     document.body.classList.add('notReady');
-    preloader.classList.add('show');
+    // preloader.classList.add('show');
     setTimeout(function () {
-      preloader.classList.add('active');
+      // preloader.classList.add('active');
     }, 100);
   }
   function removePreloader(){
     document.getElementById('flat').classList.add('black');
     setTimeout(function () {
-      preloader.classList.remove('active');
+      // preloader.classList.remove('active');
       setTimeout(function () {
-        preloader.classList.remove('show');
+        // preloader.classList.remove('show');
         document.body.classList.remove('notReady');
         randomShow(true);
         setTimeout(function(){

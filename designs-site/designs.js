@@ -190,6 +190,7 @@ window.mobileAndTabletcheck = function() {
         unitDataLink.classList.add('unitHitarea');
         unitDataLink.setAttribute('href',theData[i]['externallink']);
         unitDataLink.setAttribute('target','_blank');
+        unitDataLink.style.zIndex = 3
         unitDataMarkup.appendChild(unitDataLink);
       }
   
@@ -291,7 +292,22 @@ window.mobileAndTabletcheck = function() {
   
     //must be not already activated
     var activate=false;
-    if(unit.classList.contains('activated')||unit.classList.contains('logo')||unit.classList.contains('github')||unit.classList.contains('linkedin')||unit.classList.contains('info')||unit.classList.contains('decorative')){
+    if(unit.classList.contains('activated')
+      ||unit.classList.contains('logo')
+      ||unit.classList.contains('github')
+      ||unit.classList.contains('linkedin')
+      ||unit.classList.contains('info')
+      ||unit.classList.contains('resume')
+      ||unit.classList.contains('sperryfarms')
+      ||unit.classList.contains('favoritebookwebsite')
+      ||unit.classList.contains('birdpictures')
+      ||unit.classList.contains('atmnewengland')
+      ||unit.classList.contains('healfly')
+      ||unit.classList.contains('travelvideos')
+      ||unit.classList.contains('podcastepisodes')
+      ||unit.classList.contains('pairbnb')
+      ||unit.classList.contains('oldportfolio')      
+      ||unit.classList.contains('decorative')){
       activate=true;
     }
     if(!activate){

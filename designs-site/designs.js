@@ -42,38 +42,7 @@ window.mobileAndTabletcheck = function() {
   console.time('tiles')
   var typeOfTilesList;
   mobileAndTabletcheck() ?  typeOfTilesList = 'tilesMobile.txt' :  typeOfTilesList = 'tiles.txt'
-  readTextFile(apiLink+typeOfTilesList, function(text){
-    console.timeEnd('tiles')
-    data = JSON.parse(text);
-    console.log(data)
-    totalUnits = data.length;
-  
-    //Promise All Units Thumbnails
-    var i;
-    for(i=0;i<totalUnits;i++){
-      if(data[i]['itemthumb'])
-      imagesPromises.push(getImage(data[i]['itemthumb']));
-    }
-    Promise.all(imagesPromises).then(function() {
-      // removePreloader();
-      unitsAreLoaded=true;
-      imagesPromises=[];
-    })
-    
-    //Sort data by order
-    data.sort(sort_by('order', false, parseInt));
-  
-    //Request all details
-    console.time("articles");
-    // readTextFile(apiLink+"item-detail?per_page=100&fields=id,wpcf_details_data._wpcf_belongs_item_id,wpcf_details_data.wpcf-details-data,wpcf_details_data.wpcf-is-image,wpcf_details_data.wpcf-background-color,wpcf_details_data.wpcf-horizontal-show,wpcf_details_data.wpcf-live-link,wpcf_details_data.wpcf-live-link-url", function(text){
-    
-    readTextFile(apiLink+'articles.txt', function(text){
-      console.timeEnd("articles")
-      unfilteredDetailsData = JSON.parse(text);
-      console.log(unfilteredDetailsData)
-      draw(data);
-    });
-  });
+ 
   
   function getImage(url){
     return new Promise(function(resolve, reject){
@@ -106,6 +75,38 @@ window.mobileAndTabletcheck = function() {
     }, 100);
   }
   function removePreloader(){
+    readTextFile(apiLink+typeOfTilesList, function(text){
+      console.timeEnd('tiles')
+      data = JSON.parse(text);
+      console.log(data)
+      totalUnits = data.length;
+    
+      //Promise All Units Thumbnails
+      var i;
+      for(i=0;i<totalUnits;i++){
+        if(data[i]['itemthumb'])
+        imagesPromises.push(getImage(data[i]['itemthumb']));
+      }
+      Promise.all(imagesPromises).then(function() {
+        // removePreloader();
+        unitsAreLoaded=true;
+        imagesPromises=[];
+      })
+      
+      //Sort data by order
+      data.sort(sort_by('order', false, parseInt));
+    
+      //Request all details
+      console.time("articles");
+      // readTextFile(apiLink+"item-detail?per_page=100&fields=id,wpcf_details_data._wpcf_belongs_item_id,wpcf_details_data.wpcf-details-data,wpcf_details_data.wpcf-is-image,wpcf_details_data.wpcf-background-color,wpcf_details_data.wpcf-horizontal-show,wpcf_details_data.wpcf-live-link,wpcf_details_data.wpcf-live-link-url", function(text){
+      
+      readTextFile(apiLink+'articles.txt', function(text){
+        console.timeEnd("articles")
+        unfilteredDetailsData = JSON.parse(text);
+        console.log(unfilteredDetailsData)
+        draw(data);
+      });
+    });
     document.getElementById('flat').classList.add('black');
     setTimeout(function () {
       preloader.classList.remove('active');
@@ -783,7 +784,6 @@ function generateTextGeometry(text, params) {
   geometry.computeBoundingBox();
 
   var size = geometry.boundingBox.size();
-  console.log(size)
   var anchorX = size.x * -params.anchor.x;
   var anchorY = size.y * -params.anchor.y;
   var anchorZ = size.z * -params.anchor.z;

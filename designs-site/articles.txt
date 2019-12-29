@@ -3,7 +3,7 @@
             "id": 550,
             "wpcf_details_data": {
                 "_wpcf_belongs_item_id": [
-                    "546"
+                    "551"
                 ],
                 "wpcf-details-data": [
                     "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p1.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p2.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p3-0.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p3-1.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p3-2.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p3-4.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p4.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p5.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p6.png\" />"
@@ -13,6 +13,12 @@
                 ],
                 "wpcf-horizontal-show": [
                     "1"
+                ],
+                "wpcf-live-link": [
+                    "1"
+                ],
+                "wpcf-live-link-url": [
+                    "http://slamdesignz.com/demo/pageinbox/"
                 ]
             }
         },
@@ -20,7 +26,7 @@
             "id": 549,
             "wpcf_details_data": {
                 "_wpcf_belongs_item_id": [
-                    "546"
+                    "551"
                 ],
                 "wpcf-details-data": [
                     "<h1>Page Inbox</h1>\r\n\r\n<p>The good people of VeryCreative agency asked me to design a complete white label customer support experience for their new product PageInbox. They also wanted me to design the brand of the same product.</p>\r\n\r\n<p>They wanted to keep it simple, cool and easy to use.</p>\r\n\r\n<p>I designed the chat box and the complete agent interface in both light and dark versions plus the mobile app version.</p>\r\n\r\n<p>It was a great fun working on such product with a great team.</p>\r\n\r\n<a href=\"http://slamdesignz.com/demo/supportory/\" target=\"_blank\">Check chatbox</a>\r\n<a href=\"http://slamdesignz.com/demo/pageinbox/loading/\" taget=\"_blank\">Loading animation</a>"

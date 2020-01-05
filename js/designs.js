@@ -30,7 +30,7 @@ console.time('mainLoad')
   var clickedUnitY=0;
   var detailsViewReady=false;
   var canCloseDetails=false;
-  var apiLink="https://www.georgebelanger.com/"
+  var apiLink="http://www.georgebelanger.com/"
   var imagesPromises=[];
   var preloader=document.getElementById('preloader');
   var unitsAreLoaded=false;

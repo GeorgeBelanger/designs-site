@@ -32,7 +32,8 @@ console.time('mainLoad')
   var canCloseDetails=false;
 //   var apiLink="http://localhost:8080/slamz/wp-json/wp/v2/";
 //   var apiLink="http://www.slamdesignz.com/wp-json/wp/v2/";
-  var apiLink="http://127.0.0.1:5500/personalReactSite/designs-site/";
+  // var apiLink="http://127.0.0.1:5500/personalReactSite/designs-site/";
+  var apiLink="https://distracted-ardinghelli-78c5ee.netlify.com/"
   var imagesPromises=[];
   var preloader=document.getElementById('preloader');
   var unitsAreLoaded=false;

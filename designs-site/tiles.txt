@@ -130,8 +130,8 @@
         "order": "0006",
         "cssclass": "sperryfarms",
         "svgcode": "",
-        "goexternal": "1",
-        "externallink": "https://sperryfarms.netlify.com/   ",
+        "goexternal": "",
+        "externallink": "",
         "itemthumb": "https://lh3.googleusercontent.com/bZdFTdhHz5MqqP0GkG4Wy5F26LPEy_dx5d-jzmpgkHlwBVn2P3qpAX9EmryLr-CzOhMZSKUJs1GBL778SmSaGW3r8An5rKZK8dgABaNVSxVBpWA91fMSNr-egj0D7FwuSa_Ww63day8APbE3UsxTuYfVxnJaI_lUlNjHu0Zq13uK37GINfTxXARBqvmnMeyj_r6mlt-jyBQOWG8PggoAXuAsXWglVMGBItOLdNckZbLICUVXeapy_B1WZooTVkxivyjggfnY71Zl8_Y4N4aIigfzrM3LhjptWnPpAd8PD3nn2894T5KNcDesQTZZso3wmhSnfeXz-KJR6y0QDeC5FctAVNw4JSo9XDeKBTdjn-iuYn-2DqJpFbKCz0Uq0lRqy-4MyS53Pb7-vChFhWkTBXLDoZCmo2-GR-bQfQGXi5sMcojdbxhqmH-4HQrRPiim7SBWKyhFZXPhWreuqqGZGT-SQ3WmeVnD68_cMNAQ4Vce1ioqtTRhUV9RqIpHFqks5QUH1gAGBw2fkyzeg8TNgOYmzyMshCxXUrvbASXjUCzA1yguG_RiYVOiN09-P85RK4mfr7Y_20GuK5kw1oXz2BZRUGQ9l5foqxLlOrcq_W5PEsBKFlAEk4dZVu9AVel2BP94heed0L-V7Quw1EL4YOEp_5LOKcSey2pIuiKbml6OAyz-Ks_9gImPNI9OoRDYeKyGa9YFfne-wGDKGeEUVg41N4oCvHKV5MjO8Pqlh2fOgv1b=s414-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [

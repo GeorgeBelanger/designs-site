@@ -3,10 +3,10 @@
             "id": 550,
             "wpcf_details_data": {
                 "_wpcf_belongs_item_id": [
-                    "546"
+                    "551"
                 ],
                 "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p1.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p2.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p3-0.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p3-1.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p3-2.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p3-4.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p4.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p5.png\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/10/p6.png\" />"
+                    "<img src='https://lh3.googleusercontent.com/Y3KAC1447ywaIr_EVzOjHN_kKkJ6hfjSJzpGSHxyXsMP8aF66VtjCKQfRNGoJ9h7yAYUJSAm8UgEWzrgF25jOZqcE1ufXTuExH7LymQ0YXSuh4aiKS6XDYcBuJJO2Dj-XRPWCTP1I_oVx17sJfhRvcLjqCpIIApdyJG4NhIsxaFehS4aS9qt_N-fQBOV7JElgx4v4o1CD45lGkcxSxOtatJ1lqpufjs5bxh1iw6sEo59Og36r7nzSQ2cipTddVFWS9o_NCsHXrjtJsgIoLPyYA3jtfqtVxU49C27h69cu1LXNYah9yI_G_kT_k4tEyDwj6_srLKCmDf6AoOsrDMG96emEzwVVfd4hZTPFYp-gzVlVYxN0pmkjaSlWCDW25uIM-FEcc_iJG4TqoltvyLYC9eFhLNuo9ZdakIVAbieLbS2LPpkTNego4wIQ3ZYKQTQNyhbrQwrzV08L-MoXE_Qk6wx-7CNZzeN43j-YNZunI71DViXwyMAKIL_SZfW4CCzn46Lrvt-KzMnHvryNrLc5aWLX0gWnwhXsoZsnzVlicclEmgmFMAHuLk-mjhgwm_PMowLEhvXNiydfZ8MIp6IQ8qUbv6WolZKULybdrlsalT2YEEy1bSm23I81Xch-X9CpqWdDVw2cZbWeB2wzp7Juo27_iX62DSgyTYUl5FcD8vZWrAp45KisLMt1GVvjlwIJl4FmgQppnACf_A4JCNFIPh-3jNEkHZuZlxjIUSsKVauV__M1g=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/0MV71fkSitl-xy-G7WuQSWcZK7f2RJnP98DvOGMezQYm0q6W9kGi7cYq1YuCZ6LFFqd2vIFn-rOq7BBFjBeKh6n3MVU4Lg1hReseCz9kAEa_CG4aSCxizuD1NoynMt_Vls9iAjcY9m1mcnHHOXORa7OrmBBJtnSs8fMJN8BxjBl38S4LOOTOBOi7qPDm_rlfGAdx5zesGYwtSkQ-FRR9rLPirYukS16IDbrFSbp38NoWZ9EP9Vsh4P0L0wU0nh2OHlfP9_CmvFm3pxZR-hODSn8Tg4gBjSjSw2kLR1Ps5Fo8mDaBqS7SmH4qJikPpFAiiAT0NLi2O3VT5NkWWRdWyEtNFlIa1wJYehUmvb9-mr7otCqJVuSeAlp7-EUMFcU_irwWBXP5DC8FnKrETsX3rcG9Xwe1f1IC-B9ktBh0buW-aEl1EMQCx8jPZJkhW1hefWlO-0F90ofSbVlDFvSqO224RZhOTZeosY-wk75Deb7hI6B9o3Cbds_tcIJP-lBGSRGN0oJLdKirrDbXqUj4PQyyFQtjh24HchOi762hBuchLbc6dN39WpYjFw6JxF02o48_rooCu075OHhvrOEripRDFCM27Duq_ObDB_NHjPIZQgtq5lY5SeqKIqcTafVPybw-tg5WLtVa_VM1o_a6QbxGMyIdV9UGh4YGDrzBvbOamd4rnSj0RyH3CsvY7L3rW7e4uR0tihLGkicb1JVyMMHYST_xwwZe1IrmRGAN_pmsSd0X_Q=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/dAZZdU4PKmWk5iTt97zgcwn5DbJP51xkqJC2Uis7Mx-CsNvC0X55dX3JCUTKoQSu7IVuXedUQvXsQ7Apiu-vyRJP2VrZ5LcaywkDVT3WkrAfGYxU1zfyeQEIrauckTOcaKdANUnETJLnk4zxk6kDyOcvaDDpjo1hXS9iIzvE5oS1fkSjBNsk5R_Ed31G4bIEcISRjt1EZ0wIFQaJ7pk75kOQNlwUGKP742FWyzp2_Mjb52bB69QJ04vn1M9pcVAYhts6xohjVSJp3xZVt87sguUnb0a0OgVF54HFud0ewkaXk_rGdfhc-kUtrziR4OKG3RO-8KFfvZb23Sn16-IteRmUvJqAMwSXk7w2-CtJ1ngzmZdsiZX0tQH1xBgwiOzlhoIg-bu4Zj24OIHw-kkfZMSHBwDKFKIXsoMZIkbnxJpXxGnrW3arStXpB4JaChhkgajYI6GMydWUlD2hBCjR71fWEKA2JoaLdYJmyqr1xl4Mox0-EmxE7ZbB52TWx3b6x8aHbl198LBHH5uIeFJ_TCaIYVbFVyFQ15HtqmqmmJrar-i4yDQWxzsOhHVTmkbCHk4N_SAGT1mPuIkpCgjCu7Fff3ULqfzSO_HnrByMSnksAKPHI-fFzYEOC662rygfUK0Oi3v8RKNbeqOEsT2QFKdPAlkOgULNt2zBblz6qP5rV9UaU7LfJL0eRKgNccJqr_zLHKVHZx_Q5E4s9d41QKmceNt74cNMhuBUvbqA1hWd_-deoQ=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/WwbaMw_nfioO70HmEijOCwv_mZro6jgkt8BC0Cpype75-KKb98R7YEw7SWHk09esXkQwQCPhHlIEznr60s2wI1jH8D14-eK22fpgiZUhGNXkNEjE34npuQhI1kmLxlUO9krbnnoJYP5ta548MRLrwdi9TyS8BZoHjrOzp28ooAPMGk20ae2NBmiF3gp9tZG42_Lkz4gTee8vkP1QjeClTi8cpQw6yHZr30K6prHYlyBnSyl58u-NVbvWDc5xacnKrn503y1wwk6YS1C4N6PQ8XgJvGehG2hnsXbe0DYG1fPDdozTzbUQwL_55bcG9J-cKPlrDk1-2ANe_RY2y7njJ7T-rTvACZ8gMSNijBUO3qRCofnb91wHErENEDpzpw2ui7m9zpAjBGtvnyOoffeBMVjO88Y_W-JN5x7XDvODFN02rEb2EWllp07kYNZbbJNiERCQw12TxCowVhf6FjXJxx-EIUCSbkRNNXalreTEKn0lXiUDvsscnJdc0157fKoB8OqK6Grz1ZF9w3WHPp7q9xBMZc8hrHJlTcDlIHcgjE4gn0GA6dAqAoIS057HlKNtMNm1bxDoRnW36-6j_JUmD02mekEz4MXMWn-vaIxUdKopqBj4AcM5EZsEHWGId6s4LgYJikNtXwVV3caIV6wApqXfh_KDvVNjR_azHQuv3Et19CBX82boiSXrLmWJioDt76J_ePyA2Iqzb0McIgYDlINhYcxa59vPUMe_xrI89eofwxta7w=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/v6QeDr72w5yROrWj1N_-boyEpJzvyAYpvnSkbbkUkC1TIPg-db2-kP0TMcxEduKwLdlsYCRcfp1iTsWW2xKG2MA9e5muoujSbfXJcOl-1Aiv0pWtSKwocZUtX95L2ZjDkUWQfQ08BK425591Nu3FYAt91su5-2XX2POFFBuk0_8VfDr5en4eJiKe-qCtpNMOkA-FgNqLiSSTG1P42anxaX5BtwZhq_P9HsZWHHpH4DM8cetO6UHibPKORE2JI6GOqfVx3QCyStzO10HcXFYpshKYzZ7dmVyY6stEgo4Zh6iqcKkob2Z6zECrsH2JUoO8WPf0LEycFA8WKpQ3ADOVsS9gSFLhsLcCfntUn1porvHDyufwp22Q86V04ylAseIpvg_wK2t7ljm_4ByCyILetoa-cHvDvHs5QXYOisOVLg7MAIVaeQpNab6eBn___xyqtJ3_ILHDQ6wlBU5z5KHqFhf81xhUM8OK26QLstC9CziA4se03_xrRC_rOvZ7zGGWXhyDBgue0E5GXLR6v5jO7tpbXf_GmpvuMLXMrREWId0g8-4A67eyKGNXLZA2Efb2VtdoKIl9QJ8dY2jh58mzGIrcfpIwAZ0mk973z8BnMir6tl7SlHYT11WkXryk6w18C5kGh6utbDy9g217llYU54pPphk2pvxDfPbakk3RYwh9E06IlbcM-t3UcOMAMPfruRFZArBkTE84d0eZ8dV21BvB8VltWAYFKZRMZs69xKkJluufxQ=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/0YRvWZhR_V7uy1Ce5DmyRwDNMyonal7gNk3tXLkQU8ALfk_Am1NpH6DfariLBaHtcPBIWbhYBqK3eiQ8sxNsHhdpFKmcfz5hNkQhnDX-D5qLBCsD8fYKtWFM7X5cKKy3U9hwE2NDb4ORDonbsIqFCaNJ6Ybtt_3SZADPoTa0qLm7nQzM7LAvNPdCxE3ZxhmMXAxypOJFA4qRZ3ClvP0uDXcKMs4jvmXCJMVIaOrm7eCGpC33k69qvpOJxRp6jpWvYDsWUDgKSOEVaZK4krUYztFHipRGXBafwthLN-vRi8U7D0x-HHR2cSr_XrvDnNra981GVuyEl0yCeXpznutyoRLnwB-8yu4JefGMKQGuA557UmDGvJ90iE1CY5Uy78CYEKOg70-QVY3RlF8U3uBeFRsl6rQWrM4fDMGon-xyB-YmjqjCyqV2GxJZ5wSMFsdMtob5I_cesdvw_B09gzYjChIleKYdu4VlupJndwBxCJBFf4UqIR1GyUWwW-S_tAEjiwzvJ5baJ-nLYq3K2IITvJVJlSpa9LlnvwxlMNuS6kxF2BsaVmr9bzXiv3kv8o-rZCY0cu-0-RjJ0uUmFyvggHa2Esu1NAgp3T_gKHNYVGkW9CoRDdW2EIk7YqgHo9dLA3jtp112z91DFyBqkDDXErII2mIaDbJqfS07mUWlwJv_S2xYp32UpkyNwFxyuBvAUuvbrKp22gLRM5FgEyF5y2Ka1_Q6wGjIMyKLA0kYbuD0I7RisA=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/R8w9CTOaHjYmPz9jQHQhvj27a0xCJeVcUyRTWo4COYsMT9a8K_2gA4FSB9Cp79DXRzgMRp-PWCXzUFnhY8C-L2OAn71FGOtK53UGpyuIjXG7R4WWwwC8KPDfKY9p7dL4ZYk0UHdoWLMu_3jvKPcL3TzqElPzgRH7jlD1Xrx9zDPPpdiVHpj-VjAuMoXAFFGdIE1_xUTOR1Rs4fH-sZY2q3qV4-D6XPPCKDegJZbURSPJss4aljY1Jfwi7LR8hxHnmIqaZZw-ORGobBOksIgcbslwknN7uigd9Oe7l8DnPvQZlbzlqTld-L0LPPtjn_KFOzvV6RT2LsAAbutRn1DbmPVXa_sAcqNxkYQjWMQsGWfWUU4_MSX12FwOOJGvCUBPVhq5PWFVDUScjyufb_fFLj36lv-X8alnVNVm6dkcWNIGUDZU_kO4HdoMcE34YASC8CHY9tE3O_SckkkF7X8xqDX8YBKa4_ox4_IylNIWTZ9n_Gwq7gjhPHJoaNPFbwrZ-43V63CQxhrgKOMonMNsBzWjAVDf6f9iUOXcRd6w-OGlh-My3VKBy6HXdmHmjP2OEfSmKvRIRsE4Ndodoep50qQhD5gjNUianb-xzKJ6p1ajmv30AexOmFtR_tSZsJTlVwyHGkk7VYQ-KRL_HbuHZGiFbJStWJAoVL0Dxn2G8aZ1nHAItKMtCMUxcSMWDrFONB0M9flX_rqwkYjiUhxpE2pF2ujcHsjyAb_VKUvPKbLY7nTKUQ=w535-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/r3OWuYNgZ2pLMf1ut96sNuKl0jEc5SgkyO4nte3nCGwcgf2f5FgFeBhg2JyK9oFV3JzePZ4lhowRopKKwK9bZkcPufovZ8bn4xFkf89AjdjEQcVf-ntUMMVYXFkD407fnSGcs7f2NnlxhXlarYEON47HqM91ZdP-_XUdNJDc1ZY7hcKpudWrADn43F9VIQ6vQf4nOvo4a3sl_Y9et4v3SU0EFxB5XcUXn36NztEwQWsv4rawVVCmXp2LpC73PSi_pKCFBOU8qRGZFNCkLhTo-8x8JNf79oj0Yhvpb-65T99lTVgZPStEn4bCm7auHDU3-gAezgIjxtrEmiEV2GvAD_qa5vafArhiFFjJc8p0I-95EyIhAxQrmJgLn6Bq-TL64JsHi-CUJ4GeyRGsuW75RI0jTP8N8_m76k2oM3kCHZVllIA14-dwdln6m74kbk1JUCGRZmKDutJL82cDvs_2uGzDAz4ZBRJzr6ACVt08URCxkzy9G2D0NyZQXvlTcBXwD6500m5Pszu5aj1kIfmsr4RbrVi3qqZ7ATKMGmJkMu-fPtQ9MajScDm_u1Wxlp1gjGC2JZEF2-tpeOz0Ps3J_ABYZRLfycvwCVagWtojNwavq6UOURSvsskC3MkwXDxWW1IPrRpb0YdCFyOuZjCXHILq8MBaI__Jn5KNL5o1Rn2B-LODIeAJrlGOfV2kEk3h9nHej124Q1nzm-7nTeEANhQTjOsA8BHcztuJRYE4jfx1lGoBug=w535-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/h4ZaPjujmtA6mtjagBR1ZuHzxu6CMOxLLbDUBDWLgvcORQolgOxEAT-DYgDNm6iYhdhO5Owab6h7V9J1jolSn_olQ6G0wZd9f3tx7IBG8ucM_V3pR35bAPwW1s-EhjQ9noQYMzv4SadjtJLiFqRoYsaEvOsMK3eG7hkB28mLIgCq5jL8WKG9PaWp3HQsOHnAtYhkK20gs8ouYcXdteS8CUwosp6nVyh1lXbAdyTLoVPLLNoWISzx6wZydA6OKiVwanf4A1ClDgLE8DLWtwEl0tA9mIf_L2D1Ph_CfGeqV0k71udUlXtV6tgJeEVF748W0xJrzLMterwxW4Bb66l9XaK3SM4TxRfoLXGLpwMaMxGSNXhbc6q9Bv1wuRgzDYyFTnC-VDHQqCd5w6kgDyqGxUmNccLwyCBWqJClctENwmnzxrC5Y24HcYMTnsvtT71Lwta_PUJ3ztsXLf-7TLvl8f3cZcVV7FQbazWlYyeb-AgT0jmaeKt8FAMuMG0XFye-CjzdtGM-AkDl-42i6qYowi9ju0tuEnDZwvlzCiMX4V4_dB0MH1hZxjC5a9Q_Lso42r1vbCQRueXeSbTggs0jhsGvdxErVytMto9u1XU88OdHR9ENUhHZ3cJubVYPftf5_RIK4bm368yyyHrM47iBbVFd8IuF3SdnYrftXqCUlmJSmnKoTmM6Z3WGBIVCq3Q3apxXNoL1zFN3HWhRRh4pA0JcVuwjFoMVqfP7K0dG03B0ig9vzw=w535-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/95m6sHkRxV2GQPMimVatC7ahijlc70lXv9888R-7edSholKk6Woil7Qf-ftCjbWka3JlC7RmUmnnumxmi4Uiin6O5HQ-Ue1YyZsMJGh62TbLl83pC3eig5frYabfDBXse-Ntp0Ucpp1wipzsYoV5pzA8jUNYQZq19P2sCILNPwme8J4h9pRupfk2kLTNl0RRZYWPaN_rc3L6nH5wSzDAKtIIQIJAq24jfSRroyVSytGpR6jykN4_v5BdfzjURhSxBCX8BLSs6JgKL4s3fUtNYrBekXOFmh4H24mhofg2AGG29VJPtP5DlmIGK3GAdwE4-R2GXW4g2OkjoKtA3v0lPMh67XQgvYuBKzJWQG_kg5bWse-XtSkEe9F4eziZ2wVBqlprE1mESDEKZyC3crwkxVPuknyaaLCyyvmalAY1fLtXVTIIkxBuTv9HA2mZyukMUOXIk3J2BebYIIPO5BvwTJDG_-sFZrhXdxvMxYnhrLHoSYm5Q8eFcSj6VUCiR1WrtyLNrBtoFoIsrXCO_GVy2YcqfYN5hHLlcMZHGosXZwHQwWGgffB5Gw31QFfw0SSo6XY-mCZA5EYkOyil3MZ9mK2LLSTw5Fvr_susRM5pscxXH3iASWQlrq12qMf8TkTRq3X6pVWHkA4yqLehQitcfe9qnFDqO43RKpisBUbjW9Eu8e_LoMIwDjSVBzm-Aog1K0aCypV05ojFGwjzVo3Ev_XXrWcuR7Dd70pLRE3ZpN5yoUOWNQ=w535-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/i9elqy3WXx4kcaV1lYP1Qo_5rp5_as1zG9VEI559UoMhdtaIL_IFnlj1aEEw_PCtdcmmflG4BfWBXWs6xnoHnAnS-qhFgP8sHYMoKLL9C4VCjja23iFfgR-MUvsDHVdLIQxp0XbIOUzeEDWSSlo611h_QA_mbdGXuqG47FtTxUqPT0A9eWGRh9esTYx6VUAzQRNLrWkNvSut_ZEIf-Hg54UpoptgvB4QeTQHxJSHnauPj62k55Ude88AlJpHQbWXP01zQJXFg6JMVmpfcfygdJfK-vr93gsqn223CJ8ZtLGVu0l2hbUUevSNaRJ4dNL0ZlFOyFQzqzzYst6wOt9PTHYKDiTCV18KcCXd1W5pDeoXwZleU3Uqs6mvSyY85FvZ23iG97RuuSB0PhsGgvZVw-bUIm8LxtK0eYpqoY2CcIzUKgufsCHA3XFr7sEyv_asSXW-mX_wKuMcJz40NesinmNm7bB6g2cA1Gwi2EhrwkWTlwmfFtMmC5AoMynKcyUoZvdbqmpd7s9HaMTZyrJI8rswcfaRAhxZ_ZJPKIqIvPlm5jZqx9SF5shirv9POVf_Vb1Ar9aRmRfsxc_6gD33qMqgAx0U5zK4z01jetzYv08YRcmXO3Gh5eA5kkLAjaMDGCCAEOfV2azbjSvjwczZiw1tT7MeMiJCapgFUzNz9p4H_Thb3UdBMLnxz1H_tsb7BuPTwk4hc7wkg85iuQbN2-1iijQzI9N9jOzy9J3G93O4Ukb31g=w535-h950-no' />"
                 ],
                 "wpcf-is-image": [
                     "1"
@@ -20,1380 +20,173 @@
             "id": 549,
             "wpcf_details_data": {
                 "_wpcf_belongs_item_id": [
-                    "546"
+                    "551"
                 ],
                 "wpcf-details-data": [
-                    "<h1>Page Inbox</h1>\r\n\r\n<p>The good people of VeryCreative agency asked me to design a complete white label customer support experience for their new product PageInbox. They also wanted me to design the brand of the same product.</p>\r\n\r\n<p>They wanted to keep it simple, cool and easy to use.</p>\r\n\r\n<p>I designed the chat box and the complete agent interface in both light and dark versions plus the mobile app version.</p>\r\n\r\n<p>It was a great fun working on such product with a great team.</p>\r\n\r\n<a href=\"http://slamdesignz.com/demo/supportory/\" target=\"_blank\">Check chatbox</a>\r\n<a href=\"http://slamdesignz.com/demo/pageinbox/loading/\" taget=\"_blank\">Loading animation</a>"
+                    "<h1>Constant Energy Capital (Current employer)</h1>\r\n\r\n<p>The good people of Constant energy hired me to create a responsive front-end for their 'mobile loan in 2 minutes' web app. A complete customer experience was designed and implemented using Laravel PHP, of which I wrote many of the MVC services and data models.</p>\r\n\r\n<p>They wanted to keep it simple, cool and easy to use.</p>\r\n\r\n<p>After the core loan application was complete, we started upgrading our technology to use React and AWS Lambda microservices, and we have since turned the 'legacy' system into a single page application.</p>\r\n\r\n<p>It was a great fun working on such product with a great team.</p>\r\n\r\n<p>The portal requires a login which I am not comfortable giving out publically, but you can see the app in the screenshots to the right.</p>"
+                ]
+            }
+        },
+        {
+            "id": 548,
+            "wpcf_details_data": {
+                "_wpcf_belongs_item_id": [
+                    "548"
+                ],
+                "wpcf-details-data": [
+                    "<img src='https://lh3.googleusercontent.com/XoHImX4DSGclLmAkB3HkwzMJa4eC6mT6NC7iRU3uvLybcDPVF_qRHQq1bcOWdjXJMa81rmSHlMZlbOvM02BTYUkxFPh1OWoE203QNxswu3R5fVz_HpfCZb2SQ2952T7U-a43Z_KJTnbB9mxnIC6yvwDgbGe21J-daYpVfNZvbmO1n3VMZAjNi_IF9kXZ6hFiSqFulUrmgO4BAccGKZELO3T3HXCBUgsEPABMhY-e-h6LuPkWp2u_bd-SU5r9mm996X9a1ONY57ZMSk4zo44hFOARLo5F8058RZ_3KheBz4AHqFsjFzB2HS3DJQ2lKuGyX1COUkpYrPzno19EvQck_lpxTXIt9JTOzjj4vBA3MuqUcEH5f9G4smZieFv7utr05ZXANUpG5JQ3voKp3wSXpxKeYcFEPOIJC82i76lXRBxzUgCcN3Ls8R2KYq3DoW1poYwLXmIjS_5VheeTq8XiDiSX91mGplK0WgCE0MDLKx4xghZNN1yPFa6VUie8s7SnAZzwwva1PahNx6e5bmTL_JM2q7zQH9ih_6y4S_9lPH5TLc3lIxZtM74ooVg78gKRhpZGiYqbvUHXPjVc8R802BGdvYvaMhx_lh8dbQZ2qGtAZqXOwuvp6ygy4VwiAklz-1L0ZyMDV5ukNF_FDrcnN9aLPhEjA48eLEhrEAb4XjfMeohvK0Qn1gA_gGyeMc0c3XgMOtwkrur-SPcFV8DJqMJyWwsMoCZ-twcklwYAH-PCyaa_ag=w618-h348-no' />\r\n<img src='https://lh3.googleusercontent.com/J2HkzPFbE6FUDHRgGw3e5XePR7AUAdrLkUjbVwY9B8Y7Lk2FxKfVYh_nlr0ijBaVCK-TLRbPdRfLHEin1dFV53QAc6rrTVR9O01KXIEzY3ezx1i8ESXAD-d12WVxeNMjsZMajY9BTE2QrjLQnj632N6oAGFrDiTEmXcAqGP5PFqoHwIYOYE2WbYxHEwvIqZfO6hU942qavjnj3VbzWHHBftgQA0CeDI7p3qmQDTMFYHiTQxNKpsrwBkEdqU25mUQzGk5bB9JRM-V3JVVtB9nlUF-cLYuE_uisvQUx7oTuBQxUiktFf8KXlbD8_XFW9s-V84KHvvTFRJHeUhnyQ6DVSK8RKaGcg9nnlaR0B5uy_aVEdcmoF3d5z6P7q2IXafqR5W-A7WdqKCYMPbAEtk1yUFRmeCx9w87EhVVwK1zXjAw6D53jSD3OtJ33ggMkTBRdw-Vmg7FannPYnGrnHiXepPmem5Zqx00MGAiwa1mgyreIvYjuvz8qDQBqq2QTTGYaJoMIpkdDznad38ov45fXuLx9hDKvXk9h4fc9Tslh3xqWVYA4vQDfVjgSynBX0-TezaqDc2KQJLJppZrbebnqTGQOKiEoE9iDscw_WBOKqq91dFelgL7QtW6p9lTWFVepJumBF0T2hcnv-Cd5THei0sUPuQmjo9ZIZ9S_ui1OjW3C4e8rN7EF1qOLlkFbeEhB3TUYF1Z_viFvcEK21czXzrK2NCtbNFKpCvsD4aakxOOEruGjQ=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/S9mn-7z4HXSGKPq_FDU4NP2gXiNonemTL6hpGbVokxs5SBJS0-Dals4pWa0ogG05Zf7Iqu1vp_VQ-cTcqDoZn4R8UifeZLBlSoe2uYtYDD1ET2lETuhZhnJCdyb747MdQJscpArOPWuY2hCbqaUGe4txdma1atF1ee1uhIFbiT86CnCT-Zao_cFulPpm_yTsJycdhr63njB_YetLsdMov2IjXDX3wQCqJC5IUex3CEg4iluZ9zC5QT5LW1v2F2M4TlJ064jy9dt4e0MM8oxCt9hrVs1-2z4vh2vaLVsXWnmeeZE_I4WZ5bMCg4MxOlJc3RbsO-Fgt6n3ETqkhs-EZRP8XOtT1_PAjEOQxUAwjvxCPLvXVJ5QDIZIIpeV1vL-UEoKd9LgZyLkYTQTn8t4K91wVC8NhyB37261QFxZcGJeIEYXvnaV-UoocBgC27ri8xZzjD2i9N2otKANbw1VdjsDpGitkc72WnQdV1DdgMYHZt5t7aRwaEBfFLboFJugMusFvVB7Q6vzpen7N9Mrq3Qhs3nJpaitZQyD8vBertfqV-H2YwjGmOYnYAYMBxRG-8RvNooCr9mrAof0x6rTE749L_UJbcMf5Iv8u60wyVDSaG0aXE-4w8vEoI5gOBzTsByh2IODJAw7sRz-QsnnJQDWaCzIbQBg6Uu0Owu3DQz_p7RSVAOmqxgt2Q6sb77JgcxbsGlU00db2hoQ48XY1TXC7EL4Tz25NYpOYkAsruQr1KzUrw=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/vhK9d4wx9w8wxXhIkqEmVwowAUQjoqqaMbsYFdKHvc5oF1MJXFs6UjGqB1qS8hmGzeT0m0JL_QsmxQCPgzQEw6Xv4yakpy-m3JvuNk41xyDebEzl4zpczXeEElGCN3TYoqWMwsOfbVyiKZ-KucOQEgSVUPcOksNA0LW_U4ZYq44BfiOj7Iay82DrW2PYgPf4bNYeYxxgih5hSZHkpGHF5GY97_I7fQQM7kR4WTqsJLHdraNO34K2g44ZKd_L4PBEgWN7zd9BC_A8jKPtDnfnNtAX8xg3SfM4WZv_CZZ9xCbowhZ3IsrPi5IO_C1fwlrMv9Qru72LphkcDHpJOTsFAgmdkU1ra2KZhYVj6cwT9vKB1DFIA7XRln8fQLG6qgoDmPo3GHzMGx7bJPDYpJ1zjPFrpvrYqLrK3QQrZoEH9QttlnxA92sb3JRkSnfUiOl56Dn_HJoE_D0VHAPn08CPdyKSd_dy7QJk6ssnVp8OHDMA2a9K34JivMv0_pOw7TWAk8lNtGAbTRTys0lEQ87d6ceWmXVxv1xWymDY_sDf13YHAk3nBuMOupUvMKxA2uUZdyBmlK7559s3IcX0lv-JlOZxSQFeLhORfYzNImSnaAkrJHkhxmVW3nQiZBU62pG2RopG3D7xXnMxXoFq7u9GxI0ebMyzv0_SMVH1Hu-brUZyJbh9hT_QuYURYoJSSheVX8fK-t1JAjcMviyBQyTCygCiC8iF1rVFqnF4OJI8usCz_c4jGQ=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/puqXQX_5Htsmx-6VkXl39wdIB9gVCx3jNkHusR9AZ2y6BRz0CHse6EB_tVVgBa_1mlhSk_zSqUzv9SZlEO8FGlXDjMY1ztmU0TYyJX7uOstc1bgcEySPSCnUljFpfOmVvlBfpl9mwn8fodrXZYQtHX4C2inG3yzj5SGaKATQYoZ-u2ZKo0_F657ju6Kg6e3ms5ayyQeYICk0yW2FMsa7cNgq0fut5X9M677-G9UxwJSwasIFCD2czzACPfc-jBBPSDUXzWwiCq7vOjclvwtdwMzROw6BDB7BK4XsY3H8PNu8wV-As0eXCWIYnwlX8cqwnIoP4Kk3V0amufTI6uHoZ_o1KwSRCci8dACenSZHFQ5ZR7cELqzRwJYTAOGb77ERXspYBg7lckaJxOZ3SrlUY_EJ1tukGy9uBbhzJ9ypNn-96rA_4Nl6cESh1a6KimxpXnYshJ8g6O74aYZyymfi2dxGOMSVYoLoc9zs90lhhOx6t7qc7v2Vr1ZtMamLT0S3NB3AkMH1vPJ_XcEXHK_2i9Uf9LgztXoWARIvkAB8D2az1JldX-kZXBLbx3g1a_iAd6e8Ya-J-S0Qh9QLZn3ZikkIL-4eLrwUi6waX3n3AI90Mk7ZTD1NgrwvTmOLkxHL_wzW6faLA8eBucgbv2Z3GDFRs8TtTVG8EspBETyb3MwPPiryBM8O23FqWbLcHNtgnyw6dVro7PpjfNo1AQgaKLU6YrsMqj1urBzTPZ1w0TGQ5yXbHA=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/6S6RSUV7uwSABxu7TSewAa9BFtkZQFEHFzklB-PG06q2RAwrysCohny25wm9SdRJhosMlpIBpvbby4_D3c18ksAIiQ6-Qgmuup5DiXWSy37N-qG8IUgvshn_FWZ2aCpdBtmbvLKaJJLrfu8vmgSNq5Bmo2ZbbQCTYfXj26rcM6oLCQc6catRIvauRdgnFaDosBsdkRt2Yv01aWzelkYAhhiTZhWRvqzjfKnk5oAXYYPYRZaqA2lBIFfub9oDl5FEndoMoe3ShN_8DndoUaUtrDjUGZkasVJ6k7gogZFe87HUMTaKJDRUPIOUuKZwr5R3xJXuFSk7kGmOLyp_drG1OGGJrNt2DwuhE0mszA-rO45Ai80TE9Sq7uobkZEx_oBuO-YpUkQB8ZdZziNLpUlhiECeqI-a_G7UPTBPYUCVH-wrYuEfVXuGVyzNfcjS1r_W3HccNsqBuKXq8Z05h7ahBqVBCgZlMwAb3afmce9HGTea_mxIZG9TVoOESfwNNBT9G316U2GSygZLpF-Pon5O1GSJ6OQxxpj2XWCKFzsJWoCryGn1cvuT9HD1b-xGbwBr_oPyzdBGRJjASr1JzGFArgtyPgxu54tkUCKn1f5LVvlvgwjjIv-pBgS14Ic-B8NZRacSpVHKMZvEyqjerVGAAMHpjZMYFHbYwOIlySoa2glSrU4Q8VerQ0cP8kJ91AJtHWlnquQCZouCLaiB502eSdMVzHnMgnB-nZR4XEkV76MMZar71g=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/6RYe1Czo_mRWBTNWVDQYbxgREKAlbAlEQ3tfAfrgjUUJg_SYOysoNdNvFFqzWrOG4xR0MTHyw2y3wC2UX17-6QwbgFO3X7v_V56a-6gMUYeY7z77dB9L7B8Uts6CuUAC4zTXkpOwDnfvR8N6jClZ_TH1gYt583Nmf4ngkqZX3JZFjlyxoLqP3KkUtTQAuaNiHPtR4PLFQbGZO9Kvdh9H-ylDJddiE-6Ohwi7mkBHVWdbDBSV9rflDSqCY7ZNzAD5_NfXZbgNEq2tdJswPaRBSaWUNR70mljvp5c9BWDW92wqKZjDMQt8Z9kj4Z50XJ4irPplFr3Oqs1D-jt4uMfrsfx_wlw91ipp4glsbakpWJ2VsvgUGl-pAna2qG1iwdauIcUVBl3_UqmNf3YYBVyoq_nxXHDZThis76tPrioARlH9OQHcEt9bnVykIibXftRLa-IA-SQSLKmD6lO133w9Zc-UKdwMymTjxzIFXXASQHJKi59wflfpxc-80Au8v7Adbyp5E0M-UItkGrZkCpCdloV0DJgYdCHUgdob_0aoF4ioCgw4zWwQi56SfrgUESrxGef_JEqJ1saDZXORzMygaT_legGQS2gNuez_F5vDbjD9mldxwh2pByiynLpH_xgoLZfg61Df9ERbEJ3fv5dK2VUKl09kocqgH2ArLqkEE2WWjGwO8QAzPTs9rFwkfANM9gMterPSs2XJxeQquXIx4zh6E_iKgq_UOvg_21r5UuDqGSQQPQ=w1690-h950-no' />"
+                ],
+                "wpcf-is-image": [
+                    "1"
+                ],
+                "wpcf-horizontal-show": [
+                    "1"
                 ],
                 "wpcf-live-link": [
                     "1"
                 ],
                 "wpcf-live-link-url": [
-                    "http://slamdesignz.com/demo/pageinbox/"
+                    "https://sperryfarms.netlify.com/"
                 ]
             }
         },
         {
-            "id": 536,
+            "id": 547,
             "wpcf_details_data": {
                 "_wpcf_belongs_item_id": [
-                    "528"
+                    "548"
                 ],
                 "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/09/inno1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/09/inno2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/09/inno3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/09/inno4.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/09/inno5.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/09/inno6.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 535,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "528"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Innovinity Website</h1>\r\n<p>I've been asked to design a professional website for innovinity beauty, health and dental center.</p>"
+                    "<h1>Sperry farms</h1>\r\n\r\n<p>I was commissioned to make this website with the scope being:<br/><br/>>  1. Allow customers to see egg & maple syrup prices and order through email<br/>>  2. Have pictures of the farm<br/>>  3. Have an about us page</p>\r\n\r\n<p>I built filters for different breeds of chickens, a carousel to show different products and a picture tab that uses masonry to auto fill the page.</p>\r\n\r\n<p>The technology used on the site was HTML5, CSS3, Javascript, JQuery, Bootstrap and nginx for hosting.</p>"
                 ],
                 "wpcf-live-link": [
                     "1"
                 ],
                 "wpcf-live-link-url": [
-                    "http://slamdesignz.com/demo/innovinity/"
+                    "https://sperryfarms.netlify.com/"
                 ]
             }
         },
         {
-            "id": 518,
+            "id": 546,
             "wpcf_details_data": {
                 "_wpcf_belongs_item_id": [
-                    "513"
+                    "550"
                 ],
                 "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/02/med1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/02/med2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/02/med3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/02/med5.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/02/med6.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2018/02/med7.jpg\" />"
+                    "<img src='https://lh3.googleusercontent.com/N9GI4pQ7s_ZjP4_vl_tIZOdhm2SFpp2R91_h3ikhiGdVvnd5fpL8rXrsK39ny6kTq4sTq17FXgRpoWJUNmiUMdAMrmPtjUfQ4K6gWuhQHZ7wFbWzS2xkdCPepYa3U-SkMHI9hWUdwQGqNqHsvsPPaV-F7qVR9MHqHqt3FpVVz30kkX7MYFnXkbMlISEcl-yDgAfzTRnPF5bmIZ45Xb0ED9p3jpmGvvjmiZo02uIhKmGGdg3mIoP0WyHczsxPzOqy_rVM3PfxZuRE4njFG41czXQE3mTB43CL8-Ah88ajSTLfk-B9RAb13EFmFx0l_x6dN8GertX_sH052YIUXuJafAVqpaEy2VodxRLDqvRNr7zNhaedd2hGrkxDB7FJEdjOYuQmlKzqkkWFoe0y6r043yLsdw9_3_0cU5H61YFJU1ZEzHc7YXjS4ohVltxu58sUd75sqoy16MJWB0PLjzW2dt4Rpg3cILWZkg7Uog45RhdSmfx5-KPjrnxB6QG02JjQZK0wnvt8DhyOCCvAmlpxpZM3wrJqzS6FG_CTFjxWwT-N7mtiXlWJ0G83ov4jQGDA-iiB48pBd1IPrgl2rod_TYY6zbZcCLAumCBPHDwFnIV2Fi7M6-0f3XO7518wwXgozcnqWH5uWX5U-P-MEYewEKGszyPGjO2ejbbpWIxO3tdLKVPKwHKSoonVKQ8O3Uu5cP8uv5i4wN4GAnkeljX94EoVqZzG7UnNvxg6xlWoNNZ4Qb4nTQ=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/CcdT1-70RMTCs2ZmILXKJc4r_3pLX7ebZrQvFFHM2bQvoHkuUqKxsDx3P3ptnhplnx3k9Fy75ns5kGFPIwUhZ9Ov1OarOGcnA-AFqPYgkRjeSQpVBBJv9essc7O5AGnF3DXQP_nvmDk76jOQPgFsp2mKeHsv9uE8DBaP44DcmZY5PtkAW4J4uOYraV0FiWornXpp2lp8MG6us-eJi4B2OUuXvRd0hkkK_zq1dCYF7qTGjvOhiOls4G_3hcerX2uui8kdnMfLm5CAF7-bcXPnWzpORoJ1K6e8LXKs7GCHPdZV_EdrzNIM7qDb9Mhj8Zmd2mgOaY1hIiKLf786qe-kQ6w_jez6cVp2-zlFZ7kRyh_W4-gZ2sux54eaHpT1YKGinGXF77c_PDjLY0pNjEn6yyEskZ6eXpxudOshblZdxvlstOu0hHylu0zF-edi_SLDAWl1CGz9M2cyyeG68nySwKdxUXadDZVIcQBXZyiDXgOrQuG8w9vN7vsiipCoTwPzo6yIQzHkvyG4lc1eTmXc21k36hTx7P0RP7Jvma-IDXVR1dh2H8exD3qT6S7s3JkV2lX1g4XkXvT2E0OuuVkpsvcc7rGKP_F70X_sptxVScKlECh8IHQkZJ27lhlHpGjoEqyqzMzXRUck3peLzf75y1RL6PcPPT7z_3AnHO-ku9V6IYEY6p2CrhNvExHpqbES9XBIYnu1xJqLa40g5lJ2ri5fFz8P3qlc_F2rg4V1sMc4LBCEwQ=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/Mz7nlTg486Qt2hJ3yaguglv8Vd37IzW1WBU11FxtoxIV1G9edthyOkWlDeS4FoSvB-wm4nN098xN0ctzkMG5mPMLwMj0cwQG-LID1WGCf4VXZOdJy5i-CiJXHFuN936GMQEpUU1jvDb6sW8AoLdmDmtV9s9mNyxJzQTQ8_TSlp-qJkYsOr7OfsDomXqd8su4i_ybLKNnpcVZIUVqFJOsVzbjAhvOtSfhijb-38FXje30NMHX6aXRLvBPOpcZjIsbSfq9GIPInkE_l4kc1CSpQeSLb3210FApgPeP6M6zHPbpJyUFrv6RGUIxHUAckQOUV4tH2CP0-SVzOeEbo6SSj5f0SECrvV792ZEc7koEOyakK_XQO3H3MvrUnNJRzB_gFGHZc_LeNQrhrq9UY3VCEuBcyauWaI-pN0Vwi30ir_hpQZe0J7xOLknoDS2fhV6OU9wg0jfekRy-RsVeUoCGaXOukitrZqZhlEKCm-su46dYvhcqJ5ZIch6T-YYOjdxrU4s5ajTQ1DDEAtr9qRVAQRcupSDUognWK-gCFsRHjyQYZfscuv16gZyXsyuDnP_WNWlrM5WBo-rQ5jfZTYNVH_65Zcbr6JSjNYrY3mNIbSpstULW5KtYNxA9bkmOYoc5qhne5exX6gZF45LsCPBAJwe4hwDb-x56GnD3vd72OtISsHJAt7TSfqMqDkFVsks3EuY6t5qkpIl_Tod6mew3ljgiPVGjnchCq9DF-qS8SKBUxozhbw=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/rb19m4UQsrOZnfZAzRzp3smxgMAOkwr1itMIl8fljX2mgpylUqtUvMXrDcUgRAdR61JaNP_vHIThdkTDOxbdDf8IR-E9FCp9E01oZleVPIDgq0W2aXaS-S0vbgZM4jhtKT9NJ9BbGOsnGAj4JKF9Mr-m1dzSWFBfONet8hxmcMxlS-Tr7NSL0sfcO0Ks_KhnFPmUnxWYwth40qodxzT-luhXlh3ugp9-igUP0DbkVTQvVKYkcBMOCnXh61YTFiXM4yZ-OFec9RVnm8G__xIPS0IPDpFQMFhGf8Km9W0Wb9hbmOahqfZ_v3OaQjDZeGFTnBdZ1zdn_--h3O93GFdE1En1enbPcxETNVsRgoX6uOXC09vq8pkkd6Mnn2NfbSkIpR8DJw3kFO77wDXNEJ2xp2yYNdTuPTr972oX-uoCwCkRXdW5Qf1W1hBHW2_V15_X31cSl0nouokfclobT457yWDehANF7srhyfRlg4MuU_dqyayQgU3RDTWG0Sxst_s0bgPRMuhut3eQEi7BUqC5yALAOwxU9qJUW5Mz4LuA6IFJfSj0rYRhYO0HMG5qCQd6pIqsTyIRMV2EjZkIFJPvv_iyKOc9qK6K_HKVGRjiIslxDbAHwje-jlyNLEK3dEVYLp7dgwwH6eFUCy1GZCymZC3oc9J6K2sAA-5fJoCZW07oNJ5J6AHgtlbYqVdbERRbmPWSLUaYnaBMdEi3QTAb_TALJzcgd0xR3B1udi9B-OmXCpoM_w=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/XkCQVep61jMX_QE2TkmgcfpyjA3i2BueWaY9pEjAj0p7BAZh8qcRaN233Yoa5kB5ajLNvmostw-r6xkPhKzfbnTvlG0t7DtigUBtR25oyWSqLGGKBkWmx90GA4ZtP8nC1Re65YNbwJ23cUXpNOBru7EtZc7F4H0pO79omD2Eh6S2TBktTOMnCfxJxDjSaKFDyc5PGexVCccvXK5vhsxPeoA7Qhts__AiW62SFWTsYhpSJUVbpdUOKWcINtW1LeI7ocLn-kjyMuwcCv6EbeIZD0t_Vwm--1XCfvP1gFZQ5skUPO0gCBTjdnaZ4-uNne1bvQIMFY8UnTgx5m60Uk6tiEXwbIIb88RMUxdP1lPB3KrmVWNpAl8xWlu5t2nJd2ySXeQgNhll57BRUqk3B6Tmy3yD5e3IuQcfVDmGdmL4yd3ccMSBX1KhG3SjrAb-RWYme0THjfHqZ_Qo-fn8cHHv34-_aGePncB58EWPjQ1l3bQ8pDlB1X_EFXTygxbA3MysBNeArDLvNt5cXxJ5HEW9vP6tVRglDFGCZY0Xg0dBTvv41leMqRREcKCzxPvTOq1wkR2hEw-cqTTKMBLXmlcldBVIOXP4ne2313VHccc4mPiX2zJIq1XEm44WTb-cewRXzX2gr9_Ivkpbd41aZV7Q4QI5HIHzD167ebz9UCVXXwvyC8WjSnX9oCpGG_Vk2i8odN6VejYKP3bfbKvTLH-JXkwcGt_1y7KI4F1GkVYN0dULjUkgZw=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/Iai9tex2tL1PSygZ-rAFtZhC5ntns1fbISmvZ0Ye03vS8jYSr6tUhA_dKMyu_FQwud-Nw3JAKD-cIRtSVxRm-zBOb_ZFrg4ZKzwXI3dWDiRH-tO7MgomeP0L6I9Wst_YZVq8760RhXUe_WgK3hvQt4o2xDLC0litj5HoXM6ANrejq9saMEMaMHDuerj4I_b4L4OslG9t-92eew7J1m3r4DhfmtYlLBwuZVsmfi8wMhFxAP8qIQ0mOIT5vWaiKEzN7JB5fIHr04l9IN8ZLlD_8JmshlXZ5-1Wx-WzgoCWsA5_5GLiSIWvg0RUE0guxvtoQPxTymUZZTaghtOy_x3LUU3-78Ehher1KJC75gWSjmQNghACAjn2K_Q2Tb1CzoI9S-7wktZdLTGEj1LL1wIQt7fiJbK3zV215TOWmsxi_g0ESzNmcbQupgCDY_VMThKHSKfqKbCjhagO03HTjlvoT7lT5aoR53dMgc8mVAsWVuFnaka1BssBdhfc2ywSHrefDd9vtmyx1ocKy9Y8pDLqU7jt8Lzsb7GSgDZ6cuVzRZ97IPFL0iU9T9K_Nmy399Un6rtdoFGYtqvTs1DUBPZD4-Pyn8q1qS-Y6GhNtZjoQQW1NclbF7gQ6roQK22YZy0q8jh0DxkV1V5cDBQ_zez_Wwd0Ehokah0O7Ys3ZwxnTSfdOcsMkIGmv5PSC_9lU6KVqm8UZc-3tvvb95VKVB8nGZmwBJbM9-VqdKnKZSEJLNEhFpg8Xg=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/9zGAZ4hC088AwDg6CeP8PEUUuDuDcNriJtjmOCqIzcPRvD-HdzYeTkyKMPqdjVjrutGpnXQVqR2eF3Fqt7Xs_WnxFH4ReHH2jDPf0RXHAGoMn2w963iajpq2vNNKLbrO4GbWHzCtqowOWsoqJ72qmkdG_YZheDNB08kEIvNB0aEgTjARQVB-t2yr_DJeQ42pyZuukJU1iQjigBOEgHe4DcVAWjUltTXxBYK-6JhpibA1fjB-YvXSlCPt4bxPZdfxGbdZroJBoKOtwLhqzl8WoWpO7yzdWtpVWRx_xbRQVu84u0iF_TOjxmaFYTRWHtzBTQb_TrC2he3_8t0P2Jo9MoGA3mv29mtHLdxUxxyWe5m5XAkcPiaBcvWBWfX0T3YHn6WrRmkIj_IAM53s2Bz6qaPKonq_Ij5-yqLbTmwulryFjs5p-lIXgGbZQjTnRadGxr3_3jjy0ee63OlWsHXGhctXX3GLcsOloOhdEBvkkZD9kCKSkQOMFxD-Zb2GGIAWYjkdrVdUXt6WVzclEkyy7HLzG0YuIyEddVA-HFdCxiICCvn3QyaTQtR8W5JOM-3uuKHOcHfkU_8N19fe6mAi4yDgRe1Yvhzs4rGSAseUg47rrx2gUGfh4qIOwAPbqQAcOxkbqTS6xhAV7BslTbzy74K2Dr_n_6I6LbnrGRhtgG1xpXaLmRAEEoTKehyK87Lx_Z3gPjiYxKawCLjuXW2fEcFSvCbYM2lbdEqMpfAQhpXXskAuiw=w1690-h950-no' />"
                 ],
                 "wpcf-is-image": [
                     "1"
                 ],
                 "wpcf-horizontal-show": [
                     "1"
-                ]
-            }
-        },
-        {
-            "id": 517,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "513"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Mediterranean Tour</h1>\r\n\r\n<p>Web design for Mediterranean Tour website.</p>\r\n\r\n<p>The Mediterranean Company for Golf Tours (“Mediterranean Tour” or “MedTour”) was established in 2014 with the aim of providing a series of competitive golf tournaments for International, Regional and Local Emerging professional golfers.</p>"
-                ],
-                "wpcf-background-color": [
-                    "#1d70bb"
-                ]
-            }
-        },
-        {
-            "id": 507,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "40"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/The-Beauty-Of-Sadness.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/give-up.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/man-inside.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 506,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "40"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Art Director</h1>\r\n<p>I have a creative mind and I'm naturally inclined towards innovation.</p>\r\n<p>I come up with innovative concepts, graphic design mockups and layouts for websites, mobile apps, product illustrations, icons and logos</p>\r\n<p>I start from a creative problem or brief, create stunning conceptual comps that set a creative vision for the project</p>\r\n<p>I lead the design team and guide design projects from kickoff to completion, identifying the right times to execute and the right times to delegate</p>\r\n<p>I craft memorable, story-telling visuals to support new business pitch opportunities</p>"
-                ]
-            }
-        },
-        {
-            "id": 498,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "67"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/freelancer1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/freelancer2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/freelancer3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/freelancer4.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/freelancer5.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 489,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "67"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Freelancer Website</h1>\r\n<p>Design and UI development and bootstrap theme customization for Freelancer</p>\r\n<p>Freelancer is an arabic community for freelancers and projects owners.</p>"
                 ],
                 "wpcf-live-link": [
                     "1"
                 ],
                 "wpcf-live-link-url": [
-                    "http://slamdesignz.com/demo/show/freelancer/profileEdit.html"
+                    "https://www.atm-newengland.com/"
                 ]
             }
         },
         {
-            "id": 488,
+            "id": 545,
             "wpcf_details_data": {
                 "_wpcf_belongs_item_id": [
-                    "61"
+                    "550"
                 ],
                 "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/tabriz1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/tabriz2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/tabriz3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/tabriz4.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/tabriz5.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/tabriz6.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/tabriz7.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/tabriz8.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/tabriz9.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/tabriz10.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/tabriz11.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/tabriz12.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/tabriz13.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/tabriz14.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 470,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "61"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Tabriz Web App</h1>\r\n<p>Design and UI Development for web application Tabriz.</p>\r\n<p>Tabriz is a web application that helps teachers with materials and planning their schedules.</p>"
+                    "<h1>ATM New England</h1>\r\n\r\n<p>I made the ATM New England site to show their prospective customers the options they have in both different ATM machines and different placement plans.</p>\r\n\r\n<p>They also commissioned me to do their Google adwords campaign. The site gets a very high SEO score on Google lighthouse audits.</p>\r\n\r\n<p>The technology used on the site was HTML5, CSS3, Javascript and Bootstrap</p>"
                 ],
                 "wpcf-live-link": [
                     "1"
                 ],
                 "wpcf-live-link-url": [
-                    "http://slamdesignz.com/demo/show/tabriz/"
+                    "https://www.atm-newengland.com/"
                 ]
             }
         },
         {
-            "id": 469,
+            "id": 544,
             "wpcf_details_data": {
                 "_wpcf_belongs_item_id": [
-                    "26"
+                    "549"
                 ],
                 "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/aliaa1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/aliaa2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/aliaa3.jpg\" />"
+                    "<img src='https://lh3.googleusercontent.com/C4SjnUL1gH06ZTLuYm0d6t8dRH-3V0hVNY4X2jFODOkb8kYPwowMNX8uqU9UfwEycbes2_tgA3v1SiE5uRCFh26a1fdJ4sSHHKilSANNbWAjXltFkL8xQAZGzu4f72WwAzHYs2GceSxFWHQqUWhY6g92tLZ5jU_Dl01kSLGrZ03AnUjmtk8elQfzNb8Kx-zYyw0FK5tpl24t1OVFsZShJ174bg6mfp5putF6xHLH8t0uWhecv0HUanMnlQuLavGlIodMys0bJYEkU3BK6Vzw9VcGrL1J14TwFXkVEiVJ9lEuk3156hyF0-PVn6OcCUtl8hWoUk8fm2K7KEzkdvdCntHAHPGe8xwifPehelzWJYAMsYD31LpEQ3dusNR86CVHDACbX56HBkqD23cVN9-xc96kmQbahZNGBPoJ6sOXCq6aWips8ltYcEG4il9iPAHfGn9xErK6qNg6aRXn90fUvsmCAEFMjWRuBLKYO7ukmbHey3wwXBiD18fPE-yEmcq3bMQhw9UNiZ8YLWgweQv9ijw8QKJVxwjdkSen5uoxEJviR_b8aNdaWzlSK-uDt14n6E5HOxmimPMM0DHv_0ilsEKpSLU2yaGhswD_pebOXhngEHVwkOE2aRTykZ0X6v0LkyJwdZkWPFc0BfnSc-l-Io859veV6R8LqmhkBOlAy3M4zQ7DS_o-kUzzVOhlekqjZwP21DmHGQ6dWVqOm7wxkxtWnlGq3NHbcHMgRAqulOD9uLFRLA=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/v-Hn-I5TLL4Q01Czg4ix6MpAcCan2Pe1mivGnZdaD9nh_ntOBfmwCzGcLsmdT4HBbtx0jOvK72JEWuvtPb3MCAnXfMQvNobdxToFCDMITvaCml_LQUTeUxrLlhuBOXspNBtVjfe0IJYxNlVm7NbxeHjtxVeQ-mKa2tezWKGtnmkrz_JsNmdNja_8cXLRkBtJrOIJ6JyrOx3AbWMooBmOvtAL6dUh_CZHb5lc__yIOoP5KwnZExzJDrZn5vcf770_wohu2UlHFyDUwrZ0j0S3kjz0Ox7XLOhGHfDKOrbaOPHTa9AglGEc7D81dQ7U2hxYb6TAExsTVlbWHP-YbZmvOz23GRPWPxQ3PcAMpAQDWnRcLRzt20S2BWpmVKY3jXUFcAX0GfnyuHFMwwDolt6RVgE01zb6cVVhcRwzPPVS4F200qMWhYJSfp7KVEokin01lBpcfRBQnHFBa57cBv_I8tQ26eosIzsl1TkfSyJVEmzNQ8uvgxRhpPFSKRIUlWTrnijLsOH6sXGB4chegHKf9wmpC-HbyY4I58zo3_8Rb2uHEvKmywGmhsZdiE4yzg7rezNPA18R4sDYoAKsUU3hfQa12i2MUaL9gNxGquXhsaYj5nobUiClDrCmpGoiwZ45z-Cp73WJ6A-Qhlk1Jr-3gwEbyrcUFzf8uua5jTyvRvj6NN15CXM0hCqdnpEFX5pp9o9Xezf9f74pcAMwDIyYlLOuw-9nGGLq2G63QLFqN4yEdsfkXw=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/DDajS99GRb2W_DswWVz3mMRAIz-v-37JbPS1WVT1qOV2NP-lr4c9n6UXuOem_OUiJbVFetblzF3av47pMc6pFQhxaKHDVTjvKj-_d1Vq_LT5tNFBVAhfJEizYzNyXdLLxuNsY1lIeEPwGCMAqnd53t57rm_nbyVhG4pGcoSV_36m3H_6qxg-KDhA5bjGoykplAAko2EclkhRwwencmPhTzk0GxO6kfL4rwm6btLu93TAS-Hr5gphlY5sdxmfVgSdY8iBtduaGsc2W7lhJQxcwB_50sW7hDiR_AE-1n9KI1o9F0M5V3PAWowSeOpxvMS_SLQT4P4Hwo3kYvC_fgEn4pYXyf_RUGVFkf2lE_NRzUx4kwAjegopBmZZ3ukJszA0dIvkdSrX6lncwjlqtZvVq1eCxgg4KObvG8FoH6uXry39ISEMADfgJiwmwDhPkpHwq4tspfvmneE4byjuP-BWb3LzAlCqOO9ri5Zkq5aY3O4iRu2SXi-2dvw5Mbdhi3QVrCq61IUMml6iOf_sdUptp7YBYEASMfBUUgdSMAmNFrQCqXrw3lAbbFFo3MiEcJDCxH_hOP_N0pVnFZnOMdRMvewE9vVNY5d-feRrgSmynfTWfBIVsu2sotYdropXNLvdw6nh-w2UOgQWiezzjxsET-fvw60gJz2whwf7t1kYvdrDHyciKtRsKq4nXdPOsxDeIJO78KI2YJ0kWUsaRvMpWweJKImlJehNeBTl92js2TIlIpzxcw=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/CIknRru8550JzIiiIWdkaVQVXqUyfzS0jVi-sM37wIxNuKxaoFZdFuz_tbUfae40QjGaJpiALNWuTZzmt-VDSYj-aMCxJR0tNYqtzJSZpxWSaPKUBkZ6Jpu8O6EiRGNvk3hgAGeC43u1ND0b0g0stutAxHhqHJqi8F1IpPfhs60FrBGrXbngycJkGEGEmOMPyelUioiR_85qoOC0i9yzp0XYKUjmoKGjfYy1JPJWUYAkFmSOcQ3xWcWIl6t51U-rV4NJVOGiZFxk6Rm6LtfL92HE8aLl-vZEMJfmplx67pKJS3vZx5plwe0HPko2MJLn9absC2OFP2hSZmJpDS_fM85Lj5kkFCAqSjo2688lhnK69b0UEr1RP2m1ZwznDrIEm6lhw0DuOy79z588m3YM8qnUl5JvMhlUZex0XZ0_R1GdQGViSoh5uKcbQ8Ihq8wreU9z_JVFbFABhxVVZVo0aL8maL-XGGvFHYRndaRsxQhyNBoh10Kq_BGTs5HRga4abJ3G-K1MR5WFZA4LpJf1iC0Vye55N8h9dv8TLB0caFiU2kMmo9ReQjJxXO6AjMofw3ZzCpsWnbS89poTmVgV4pirxeMwfGgiEwz3qPgkjIsVjt1xykN9umAdrxfQK_hzq9KpTcIaepBWTaCbBOkbUoQZE5zshfd6zXBSb48gyivTM0qUhLQivP9VlMOZn7a4rbqKfpUkcy9yXIoXmC7jR3QaNEqMemN6HI56c_BZX1HVnPoC9w=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/lCh-9q7_pX7wSDwsjJg81RA2aOjz89AyOBkHGLo-evpvt7NOwhcYptG0YF4YuclE9Is97TZ3_UUH5pUMGXk1VKu5JyncLvwyJlIUwWLYKQgdOTKAHGpQLAkmG2mx6SQ_qu0e5Buwv-AMXZjigtp7N7DY6Zsnov1VU-ykzW5hEZqyqpRpdDaJj8mluOF6WcOhEIeG3HHc0ucgWUV1i81SN4rML2lK2yXzOyLclOoJ5qjLoR0ExerFsDxEXHbDDElaJtNB3UBkkCQov7-wJNE5xXKUlA2_jG76NisNZ8n2D7Iiq3VOEAjVPd031NtOyb7kWneDWXeMmzq_iCNhIC90-Pi2IW2sxLEnjrqJrX-3KQ4kI5yl39XtoyjUwpQKsPemTp_xscRoqYv_i9CfBJa4quw5FN7NmKTDiPejwlCRq4gDj6jadFzUy1afUKoNpUz4TdrX2vpdMTSoakIz4e4bFh4fhPcFIOLqJsscaDS8p2bI-c3DCILDvc_AgQ8hiKOfgloTfRqhpyuTSQz6NDnFChA6hnwMOCjBPmtOVNcBLPZA6nA1sfp4VWF3J38_uGKEoowvJaKtZdAj1FCLGNQtVW5vwyGCBauIBPRlsJvibibdD_AJGF3P60Ls5Yx6JyWEfFC9xzs85H11obSyWFXxuZ64tp5FF3OUZEOs5NC442JZn9sRzrd_uS7anz3DoVapm7TR8KHjUFOjTHRGoA9L82ew_MkIUwckmmOjN3o5bwEwErjPNw=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/lCh-9q7_pX7wSDwsjJg81RA2aOjz89AyOBkHGLo-evpvt7NOwhcYptG0YF4YuclE9Is97TZ3_UUH5pUMGXk1VKu5JyncLvwyJlIUwWLYKQgdOTKAHGpQLAkmG2mx6SQ_qu0e5Buwv-AMXZjigtp7N7DY6Zsnov1VU-ykzW5hEZqyqpRpdDaJj8mluOF6WcOhEIeG3HHc0ucgWUV1i81SN4rML2lK2yXzOyLclOoJ5qjLoR0ExerFsDxEXHbDDElaJtNB3UBkkCQov7-wJNE5xXKUlA2_jG76NisNZ8n2D7Iiq3VOEAjVPd031NtOyb7kWneDWXeMmzq_iCNhIC90-Pi2IW2sxLEnjrqJrX-3KQ4kI5yl39XtoyjUwpQKsPemTp_xscRoqYv_i9CfBJa4quw5FN7NmKTDiPejwlCRq4gDj6jadFzUy1afUKoNpUz4TdrX2vpdMTSoakIz4e4bFh4fhPcFIOLqJsscaDS8p2bI-c3DCILDvc_AgQ8hiKOfgloTfRqhpyuTSQz6NDnFChA6hnwMOCjBPmtOVNcBLPZA6nA1sfp4VWF3J38_uGKEoowvJaKtZdAj1FCLGNQtVW5vwyGCBauIBPRlsJvibibdD_AJGF3P60Ls5Yx6JyWEfFC9xzs85H11obSyWFXxuZ64tp5FF3OUZEOs5NC442JZn9sRzrd_uS7anz3DoVapm7TR8KHjUFOjTHRGoA9L82ew_MkIUwckmmOjN3o5bwEwErjPNw=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/cpEzeWOCEGcmy7Pe-OvpRCCMP8-QhJm_Gkzfw_meJiNo_2aK3s9wcjlkP8SqRP0UCgXksxfDwfEg4Ky7oAi9arUXisgYeEHMvvf7YG53hoBi8CywjHQMxoV1c7SpqFcqBviX5EfH8LicPM3tZ2NoMHBIyFLToqO20K_ymkRXtNG8J9-RhDxn2XrMD7vL8VFGQaR507N3Z8aaThcchPayotP0_uk1LJg4mzKJ3t4KRI-vXrBa9Df5COl7nTWsJSW7VXsS3Da4Nu9c88bMfq2tLmx1vNBeT1ue-CWcr28v19V2NiMTz-cWryWR1-i6xqVMtwOq2EIP0HURy8_aWzvxn_HbNuWxM5khdy8Gg2pWDZov7OFRODybyWuBA4Tcpqa9LbRBWVpQ8ngwXJ1z9Yu-0V093_wTK6dJq9PU1n9X9LVZBGonh7PfECBYCRTcS_vxlcbfWgv-2lTAIuWJDedXvOSvyFNX9qEZEimyTncGb74dcNuRO1Chb7Ks3UOMSsLiM3zmFvFr9goK-C07UInwVQt7AQgRJn-oTF-BHM6Cr23DyXKn_EMN5ar8Z5tal9Z5wBKAhX0sZH2UaYkAUsFTs2Z7W0ysEBGYclZhHcS1GxZ_kLnkjNnLChpH8KS5hJduRs3vJdVKdxDsWaXWFgJNg1WgIyXmbMtjuVDjCmUUwFBTLfIJ5TLAoBzZEHW9pqV8y8twHcjkrid0uYXyhvGmh3lrdqKSYcGCNrhjnAx7jugUks6YtA=w1690-h950-no' />"
                 ],
                 "wpcf-is-image": [
                     "1"
                 ],
                 "wpcf-horizontal-show": [
                     "1"
-                ]
-            }
-        },
-        {
-            "id": 468,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "26"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Aliaa El Sawy Website</h1>\r\n<p>UI Development for eTurn client Aliaa El Sawy food stylist.</p>\r\n<p>Aliaa is Culinary Artist - Food Editor - Recipes Developer - Food and Prop Stylist and Food Art Director. \r\n\r\nwith 12 years experience in food styling cookbooks, magazine, product packaging, ads and TVC's </p>"
                 ],
                 "wpcf-live-link": [
                     "1"
                 ],
                 "wpcf-live-link-url": [
-                    "http://slamdesignz.com/demo/aliaa/"
+                    "https://healfly.herokuapp.com/providers/search"
                 ]
             }
         },
         {
-            "id": 461,
+            "id": 543,
             "wpcf_details_data": {
                 "_wpcf_belongs_item_id": [
-                    "28"
+                    "549"
                 ],
                 "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/courses1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/courses2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/courses3.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#00ad3d"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 454,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "28"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Courses Portal</h1>\r\n<p>Design and UI Develop using Bootstrap for online courses portal</p>"
-                ],
-                "wpcf-background-color": [
-                    "#00ad3d"
+                    "<h1>HealFly</h1>\r\n\r\n<p>HealFly was an app made as a group project at Next Academy. The idea behind this app was to have a listing of affordable health service providers around the world. The cost of healthcare procedures in the USA is several times higher than in other countries.</p>\r\n\r\n<p>This app was created by a 5 member agile team using a KanBan board, Slack and GitHub. It has 14 different Git branches for each of the features that were developed.</p>\r\n\r\n<p>The technology used on the site was Ruby on Rails, HTML5, CSS3, Javascript, SQL, Stripe and jQuery.</p>"
                 ],
                 "wpcf-live-link": [
                     "1"
                 ],
                 "wpcf-live-link-url": [
-                    "http://slamdesignz.com/demo/show/courses/index.html"
+                    "https://healfly.herokuapp.com/providers/search"
                 ]
             }
         },
         {
-            "id": 447,
+            "id": 542,
             "wpcf_details_data": {
                 "_wpcf_belongs_item_id": [
-                    "37"
+                    "547"
                 ],
                 "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/dealpak1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/dealpak2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/dealpak3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/dealpak4.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/dealpak5.jpg\" />"
+                    "<img src='https://lh3.googleusercontent.com/GJl8vytQZUpDb9bOgNZ-yvhrXNWJVScw3sbafcxjooP7plmN4trnwlzlFrOz_pIbNPDOZBdtZd-uC62HuPS8igeWnDWWdMRKUM710hX3EF9qiQiV3YpUhsUnIRIGoU2BtcX6AuN0PxMJe2x3Z9AR6zwI0YjzuQq_sCfFaaRpnlbb2B4nwO0g9TQQ89PQXUVGDZH93EL8Gh54jyOdfeVWzIn24EUUWIexTGYnInW7_qhBTPeMSCqwru8CWaWGFS3ZeXnOwQhrOQkXQW3RFwyOpcICN5AkQuFnLXzQ77q4lc8sBkUpaJcAbB9zU8XWWgpZ8PncAKsQrt0-8qSHI01TI_BJLVAYX5IdkCO86STrCfFvFc28wqvzAUHeTdwf4wm3Noi60-_U09HKvtXyUM7wrr6AtJMFwVshXmW6V-EBbGe6lg9OiS4Iq_09wxPZhkp7PbJnpoVjk2tfyrXZ7stoj6ZoD4TGI_Z0S7-HqR-MTk8v22xzrkc9rGPjeCEurofRFR2zeNi8GSommFCUWmR6DUmkQ_BqSxlyhu_lWOkpWbCsPz4fiNgR15WkpspkT9KZnIcjmuvrE-2Jr0wR8dvhU7EX2V7Z2AnE3dbbXqVU3h2mJru30_hWNNxIgHrcOhUwncRvlyxEYNkGD5IJwAmy1Rexp6Jg1Ssr8CV7LDMsUxSu5_OR_1KTBXbaN3zw3_9diaoeg1KKHYWtnV_sdemA7_xUgnn_2PjEXGMlphNRwjjXL5z1KA=w1690-h950-no' />\r\n<img src='https://lh3.googleusercontent.com/2EjbftN8ukflTg1uIpZWvSoDkHOSCRc7R5rkCAxbMtJBELo-MzmFr3DSH1G_rYC-qWej4ejvj63vcFdK1T6-wZJPZ2hY21KVWR0F_H36VX-6tPHzGF_IsNlVAQx9uoPxWmMLY3RibySdP-EmDKuUpdjp4AsghdYEp3rZIM0T23GIbJui-k64bFtShJ2j1eF07edAGPRtpT1JI-4-8a_QQE93SbKVTxbi-gQol9OrvARpNLEhEUN_0Mv9IR3ntF9vnzifJDb-kW96pRelZ23ZrEdwEPhNNRr2GJ0CzrmxIj_L-mWGLaz8n5M2FXeORgixFI21UPWr2_lhEyceDYk9zfHmmOEJvriFq9eNsuFaz_6N9zvc9RMD54zeaZIGeLgv2TuoWwlAjxZc-9B85We-i7R7UvnnxgUc6NBjM9WYzPYR90hmWP0Kk-V6Bmfvv8QWf2Fcw7tjUgIKyVAPW_Jeuv3yexlXVb8RC4BfiYzbXHB2yKqVMw-7V75cjU9NKl_Qy9tqvUfaSYlF42QRStfU6Qr9SmRDeCSek8okiuQv4-oJROoi4rDpUDz0axE_AglTMu0Pmwqgvz1uUFw6NV0oRZgreNL8fdb116Xlw5GRXt6-_c4TmBtw9Ri7zJRHWC-9EABlqxdjcL8x764V0hbtNgmGpERvrDQSC9QruJ5dWbcJqW3aFRy72IwwlT9Hc5CXORnufgxxcpS_tbjKFo3df1LRVvZVECreJyswPvavS0OFpUHP3A=w718-h404-no' />"
                 ],
                 "wpcf-is-image": [
                     "1"
                 ],
                 "wpcf-horizontal-show": [
                     "1"
-                ]
-            }
-        },
-        {
-            "id": 446,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "37"
-                ],
-                "wpcf-details-data": [
-                    "<h1>DealPak Website</h1>\r\n<p>Graphic Design and UI development for eTurn client Dealpak.</p>\r\n<p>Dealpak is a direct marketing company. Dealpak’s objective is to deliver advertisements, savings and value to up to 20 Million consumers each year. Dealpak will also offer digital solutions with dealpak.net as well as apps for smartphone platforms.</p>"
                 ],
                 "wpcf-live-link": [
                     "1"
                 ],
                 "wpcf-live-link-url": [
-                    "http://www.slamdesignz.com/demo/dealpak/"
+                    "https://pairbnb.netlify.com/"
                 ]
             }
         },
         {
-            "id": 433,
+            "id": 541,
             "wpcf_details_data": {
                 "_wpcf_belongs_item_id": [
-                    "57"
+                    "547"
                 ],
                 "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/abayology1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/abayology2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/abayology3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/abayology4.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 432,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "57"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Abayology Website</h1>\r\n<p>UI Development for eTurn client Abayology website.</p>\r\n<p>Abayology is a brand based in Cairo, founded by two Egyptian designers to create an exclusive line of Abayas just for haute Hijab. </p>"
+                    "<h1>PairBNB</h1>\r\n\r\n<p>PairBNB was a tongue-in-cheek project to show the difference in quality for AirBNBs at the same cost in different countries.</p>\r\n\r\n<p>The technology used on the site was React, Aws Lambda, GraphQL, Javascript and CSS.</p>"
                 ],
                 "wpcf-live-link": [
                     "1"
                 ],
                 "wpcf-live-link-url": [
-                    "http://www.abayology.com/"
-                ]
-            }
-        },
-        {
-            "id": 429,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "38"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/art1.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 428,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "38"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Art House Gallery Website</h1>\r\n<p>Graphic design for eTurn client Art House Gallery website,</p>"
-                ]
-            }
-        },
-        {
-            "id": 414,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "27"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/bus1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/bus2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/bus3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/bus4.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 412,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "27"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Bus Cafe Website</h1>\r\n<p>Website design for eTurn client Bus Cafe</p>\r\n<p>Bus Cafe is the first cafe in a bus in Egypt.</p>"
-                ]
-            }
-        },
-        {
-            "id": 396,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "20"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/ux1.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 395,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "20"
-                ],
-                "wpcf-details-data": [
-                    "<h1>I'm UX Engineer</h1>\r\n<p>I fill the middle ground by combining both design sensibilities and technical skills together. I'm skilled at making something both look good and function in a browser/device at the same time. I have the production skills to be able to produce visual designs in Photoshop and then turn them in to HTML code that deals with the wonders of browser compatibilities.</p>\r\n<p>This requires in-depth understanding of how browser rendering engines behave to be able to implement a design for the web that renders correctly and get all those pesky pixels to line up perfectly.</p>"
-                ]
-            }
-        },
-        {
-            "id": 378,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "371"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/cfc1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/cfc2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/cfc3.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 377,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "371"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Cairo Festival City Website</h1>\r\n<p>UI Development for eTurn client Cairo Festival City website.</p>\r\n<p>Spanning a land area of over 3 million sq. m (700 acres), Cairo Festival City is a visionary mixed-use urban community strategically located at the gateway to New Cairo city. Cairo Festival City sets new standards as Egypt’s premier indoor-outdoor shopping, dining and entertainment destination, providing spectacular residential villas and luxurious apartments, as well as prime office spaces, together with internationally renowned hotels, international schools and automotive showrooms all set within a beautifully landscaped and tranquil community.</p>"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://slamdesignz.com/demo/cfc/"
-                ]
-            }
-        },
-        {
-            "id": 362,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "358"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/emaar1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/emaar2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/emaar3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/emaar4.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/emaar5.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/emaar6.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/emaar7.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/emaar8.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#000000"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 361,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "358"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Emaar Misr Website</h1>\r\n<p>Designed and developed multiple websites for Emaar Misr and it's subsidiaries Marassi, Mivida and Uptown Cairo.</p>\r\n<p>Step into a realm of lavish living and vibrant sophistication with Emaar’s prodigious and exquisite communities. Upholding its reputation as one of the world’s largest and most progressive property developers, Emaar celebrates a decade of accomplishments with its distinguished gated communities across Egypt: Uptown Cairo in the heart of Cairo, Mivida in New Cairo and Marassi in the North Coast.</p>"
-                ],
-                "wpcf-background-color": [
-                    "#000000"
-                ]
-            }
-        },
-        {
-            "id": 355,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "52"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/aqar1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/aqar2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/aqar3.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#008b41"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 349,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "52"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Aqar Stock</h1>\r\n<p>Design and UI development for Aqar Stock website.</p>\r\n<p>Aqar Stock is real estate search engine powered by MasteryIT.</p>"
-                ],
-                "wpcf-background-color": [
-                    "#008b41"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://www.slamdesignz.com/demo/aqarstock/#/"
-                ]
-            }
-        },
-        {
-            "id": 346,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "62"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/rack1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/rack2.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#a40b12"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 344,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "62"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Rack23 Website</h1>\r\n<p>Web design and UI Development for Rack23 website,</p>\r\n<p>Rack 23 is committed to set the standard for International importing & distribution. This is done by serving all demands of the customers (packing ,private labeling mixed pallets) We aim to improve our customers experience by providing an authentic variety of specialty food products from all over the world.</p>"
-                ],
-                "wpcf-background-color": [
-                    "#a40b12"
-                ]
-            }
-        },
-        {
-            "id": 339,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "4"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/12/cat1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/12/cat2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/12/cat3.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#000000"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 337,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "4"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Wild Cat Website</h1>\r\n<p>GFX design for Wild Cat website.</p>\r\n<p>Incorporated in 1999, Wildcat Petroleum Service is a family run company with over 60 years combined service experience. The company was founded on the principle and mission that pride still matters. Today, those words still drive our technicians to provide customers with the highest quality of work, fastest response time, and unequaled customer service.</p>"
-                ],
-                "wpcf-background-color": [
-                    "#000000"
-                ]
-            }
-        },
-        {
-            "id": 327,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "59"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/masteryResponsive.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/mastery1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/mastery2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/mastery3.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#018abd"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 326,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "59"
-                ],
-                "wpcf-details-data": [
-                    "<h1>MasteryIT Website</h1>\r\n<p>Design and Development of MasteryIT website.</p>\r\n<p>With three main Divisions Mastery IT Provide the Egyptian market with distinguished End 2 End Solution, We employ state of the art technology to bridge the gap between local business requirements and global leading-edge technology.</p>"
-                ],
-                "wpcf-background-color": [
-                    "#018abd"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://slamdesignz.com/demo/mastery/"
-                ]
-            }
-        },
-        {
-            "id": 322,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "51"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/active1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/active2.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#242323"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 317,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "51"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Active DD Website</h1>\r\n<p>During the alliance between eTurn and ActiveDD i've been asked to UI develop and art direct the website of ActiveDD</p>\r\n<p>Active Digital Development is a fully integrated creative and Web Solution Company; we specialize in delivering innovative creative solutions across a wide range of digital and online media.</p>"
-                ],
-                "wpcf-background-color": [
-                    "#242323"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://www.activedd.com/#"
-                ]
-            }
-        },
-        {
-            "id": 309,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "50"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/fadeResponsive.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/fade0.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/fade1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/fade2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/fade3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/fade4.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 308,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "50"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Fade Hotel Website</h1>\r\n<p>I've been asked to develop a responsive wordpress website for eTurn client Fade Hotel.</p>\r\n<p>I developed the website using wordpress CMS with a very powerful admin controls that allow the data entry team to fully control the website smoothly.</p>"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://897.72f.myftpupload.com/"
-                ]
-            }
-        },
-        {
-            "id": 295,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "54"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/eturnResponsive.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/eturn1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/eturn2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/eturn3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/eturn4.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#f37932"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 293,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "54"
-                ],
-                "wpcf-details-data": [
-                    "<h1>eTurn Website</h1>\r\n<p>Design and UI Development for my beloved eTurn website.</p>\r\n<p>eTurn is a software and web development organization that prides itself on offering cutting edge solutions that are both efficient and offer true value to our clients.</p>\r\n<p>eTurn works with Agile project management and software development by tailoring methods to suit best the project requirements.</p>"
-                ],
-                "wpcf-background-color": [
-                    "#f37932"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://e-turn.co.uk/"
-                ]
-            }
-        },
-        {
-            "id": 285,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "63"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/abbott1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/abbott2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/abbott3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/abbott4.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 278,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "63"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Abbott Internal Magazine</h1>\r\n\r\n<p>I've been asked to design and develop an digital internal magazine for eTurn client <a href=\"http://www.abbott.com/\" target=\"_blank\">Abbott</a> to be shared internally among it's employees.</p>\r\n\r\n<p>I decided to build the whole magazine using the Our HolyGrail™ component to achieve the best UX and development flexibility.</p>\r\n\r\n<p>We successfully published the digital magazine and we got a great feedback.</p>"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://slamdesignz.com/demo/abbott/"
-                ]
-            }
-        },
-        {
-            "id": 275,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "45"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/pulse1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/pulse2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/pulse3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/pulse4.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 274,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "45"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Pulse Home Innovation</h1>\r\n\r\n<p>AngularJS UI development for eTurn client Pulse Home Innovation website.</p>\r\n\r\n<p>Pulse is specialized in residential and commercial interior design. We incorporate innovative products and concepts coming up with unique ideas for our clients while focusing on the practical application of our concepts in addition to integrating home automation.</p>"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://slamdesignz.com/demo/pulse/"
-                ]
-            }
-        },
-        {
-            "id": 267,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "48"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/menaResponsive.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/mena1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/mena2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/11/mena3.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#c9aa6d"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 260,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "48"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Mena City Central</h1>\r\n<p>I designed and developed this AngularJS  mini website for MastryIT client Mena City Central</p>\r\n\r\n<p>Mena City Central is a prominent landmark in Dokki, Cairo, Egypt. It is a mixed-use model that was carefully planned and constructed to include both a commercial area with 200 international, local and chain stores in addition to a wide variety of restaurants and outlets and an administration area for offices and workplaces.</p>"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://slamdesignz.com/demo/minaCity/"
-                ]
-            }
-        },
-        {
-            "id": 249,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "47"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/igi1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/igi2.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 248,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "47"
-                ],
-                "wpcf-details-data": [
-                    "<h1>IGI Real Estate Website</h1>\r\n\r\n<p>The wonderful designs made by the professional GFX designer <a href=\"https://www.linkedin.com/in/noha-mahran-b4474083\" target=\"_blank\">Noha Mahran</a> helped me to achieve a great user interface made by AngularJS for IGI Real Estate Website and it's three sub sites.</p>\r\n\r\n<p>IGI Real Estate seeks to develop world class Egyptian properties, homes and communities which we believe significantly meet the needs of IGI Real Estate clients.</p>"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://igi-realestate.com/"
-                ]
-            }
-        },
-        {
-            "id": 244,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "49"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/madaeenResponsive.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/madaeen0.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/madaeen1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/madaeen2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/madaeen3.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#e4e98a"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 239,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "49"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Madaeen Marketing Agency Website</h1>\r\n\r\n<p>I've been asked to to the responsive UI development for eturn client Madaeen Marketing Agency.</p>\r\n\r\n<p>Madaeen Marketing Agency specialized in welcoming your brand into the Digital World by planning, designing, and spreading your voice through the latest online marketing strategies.</p>"
-                ],
-                "wpcf-background-color": [
-                    "#2ebcb0"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://www.madaeenagency.com/"
-                ]
-            }
-        },
-        {
-            "id": 233,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "55"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/mediaResponsive.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#1c032b"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 230,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "55"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Media Grid</h1>\r\n\r\n<p>At 2010 before the revolution of responsive web design i've been asked to develop a TV guide in an easy to use grid to be a part of a website for eTurn client.</p>\r\n\r\n<p>I built the media grid using jQuery as one of the latest technologies at that time, and it still functioning pretty good after all these years what makes me very proud to introduce it to you.</p>"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://slamdesignz.com/demo/media/Grid.html"
-                ]
-            }
-        },
-        {
-            "id": 218,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "42"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/gwuResponsive.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/gwu1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/gwu2.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#26822d"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 216,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "42"
-                ],
-                "wpcf-details-data": [
-                    "<h1>General Women's Union Website</h1>\r\n<p>I've been asked to do a responsive UI development for eTurn client General Women Union.</p>\r\n\r\n<p>General Women's Union has been established and chaired by the wife of the State's former president, H.H. Sheikha Fatima bint Mubarak, pursuant to the Federal Law No. (6) of 1974 and it represents women throughout the State.</p>"
-                ],
-                "wpcf-background-color": [
-                    "#26822d"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://www.gwu.ae/"
-                ]
-            }
-        },
-        {
-            "id": 201,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "41"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/lahaciendaResponsive.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/lahacienda1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/lahacienda2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/lahacienda2Admin.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/lahacienda3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/lahacienda4.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/lahacienda4Admin1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/lahacienda4Admin2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/lahacienda4Admin3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/lahacienda5.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/lahacienda6.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#00b2b9"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 200,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "41"
-                ],
-                "wpcf-details-data": [
-                    "<h1>La Hacienda Ras Sudr Website</h1>\r\n\r\n<p>I've been asked to design and develop a responsive wordpress website for eTurn client La Hacienda Ras Sudr.</p>\r\n<p>After i designed the website, I developed the website using wordpress CMS with a very powerful admin controls that allow the data entry team to fully control the website smoothly.</p>"
-                ],
-                "wpcf-background-color": [
-                    "#00b3b1"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://www.lahaciendarassudr.com/"
-                ]
-            }
-        },
-        {
-            "id": 192,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "35"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/ney1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/ney2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/ney3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/ney4.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#2b235b"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 191,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "35"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Ney Menu ipad App</h1>\r\n<p>I've been asked to design and develop an ipad application for eTurn client <a href=\"http://www.neyrestaurant.com/\" target=\"_blank\">Ney Resturant</a> to wrap the resturant menu in elegant way and allow the guests to request the waiter or request a bill and to be bilingual.</p>\r\n\r\n<p>I decided to build the whole app using the Our HolyGrail™ component to achieve the best UX and development flexibility.</p>\r\n\r\n<p>We successfully launched the app on restaurant ipad devices and we got a great feedback from the guests who used the App in the restaurant.</p>"
-                ],
-                "wpcf-background-color": [
-                    "#2b235b"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://slamdesignz.com/demo/ney/"
-                ]
-            }
-        },
-        {
-            "id": 182,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "36"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/TheBrandBees1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/TheBrandBees2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/TheBrandBees3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/TheBrandBees4.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/TheBrandBees5.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 180,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "36"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/thebrandbeesResponsive.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#cedb00"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 179,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "36"
-                ],
-                "wpcf-details-data": [
-                    "<h1>TheBrandBees Website</h1>\r\n<p>Unforgettable team work with the talented designers of <a href=\"https://www.facebook.com/pg/TheBrandBees/\" target=\"_blank\">TheBrandBees</a> and me as the UX lead of <a href=\"http://e-turn.co.uk\" target=\"_blank\">eTurn</a></p>\r\n\r\n<p>With the neat and simple designs i decided to make it more fancy by adding some animations like <a href=\"http://thebrandbees.com/philosophy/\" target=\"_blank\">animating the bees</a> and the output was just great.</p>\r\n\r\n<p>A boutique brand agency with extensive experience in both marketing & branding worlds. Our strength lies in our project-centric approach towards amplifying brands from the inside-out. We are hands-on and engaging, as we drive change and devise brand solutions from within organisations to deliver a bespoke brand story.</p>"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://thebrandbees.com/"
-                ]
-            }
-        },
-        {
-            "id": 175,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "32"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/onicon1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/onicon2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/onicon3.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 170,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "32"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/oniconResponsive.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#a43f8b"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 169,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "32"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Onicon Therapeutics</h1>\r\n\r\n<p>The wonderful designs made by the professional GFX designer <a href=\"https://www.linkedin.com/in/noha-asal-a4a0b5120\" target=\"_blank\">Noha Asal</a> helped me to achieve a great user interface made by AngularJS, powered with fancy animations and fully responsive across all devices.</p>\r\n\r\n<p>Onicon Therapeutics is Dubai based & a diversified health and well-being concierge company, focused on improving people’s lives through bridging innovation in the areas of pharmaceuticals, and medical devices to Middle East & North Africa region ( MENA ) .</p>"
-                ],
-                "wpcf-background-color": [
-                    "#a43f8b"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://slamdesignz.com/demo/onicon/"
-                ]
-            }
-        },
-        {
-            "id": 162,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "66"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/cinderellaResponsive.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/cinderella1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/cinderella2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/cinderella3.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 161,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "66"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Cinderella Show Website</h1>\r\n<p>I've been asked to craft a website for Cinderella Show held in Cairo International Conference Center organized by Free lance.</p>\r\n<p>I designed and developed the website with main focus on creating appealing user experience by adding rich contents in attractive way.</p>\r\n<p>I managed to finalize a bilingual, responsive and social integrated website in less than 30 hours what made me proud.</p>"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "http://www.slamdesignz.com/demo/cinderella/"
-                ]
-            }
-        },
-        {
-            "id": 151,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "31"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/TapDeal1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/TapDeal2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/TapDeal3.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/TapDeal4.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/TapDeal5.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-background-color": [
-                    "#000000"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 150,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "31"
-                ],
-                "wpcf-details-data": [
-                    "<h1>TapDeal</h1>\r\n<p>It was a great opportunity to be one of core team members who are behind this great startup.</p>\r\n\r\n<p>TapDeal is an innovative online marketplace network based on exchanging products within the same value range. TapDeal is dressed in a very  attractive interface.</p>\r\n\r\n<p>I contributed with GFX designs, UX and UI development to build the user experience of the great engine built with Java, Spring, Spring integration, AMQP, Neo4j, Python, Scrapy, MongoDB, Cassandra, Elasticsearch, AngularJS, Nginx, Tomcat, distributed microservices.</p>"
-                ]
-            }
-        },
-        {
-            "id": 140,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "30"
-                ],
-                "wpcf-details-data": [
-                    "<h1>The Future</h1>\r\n<p>The current HolyGrail™ is stable, strong and powers multiple projects inside eTurn, But i still have an endless list of features to be added.</p>\r\n<p>We even think to share the source code with the great community of devs. across the globe to share the knowledge and support the open source community.</p>\r\n\r\n<p><strong>Special Thanks To:</strong></p>\r\n<p><a href=\"https://www.linkedin.com/in/ahmed-essmat-15a24130\" target=\"_blank\">Ahmed Essmat</a> (CTO at eTurn)</p>\r\n<p><a href=\"https://www.linkedin.com/in/islamtaha53\" target=\"_blank\">Islam Taha</a> (Software Engineer at eTurn)</p>"
-                ]
-            }
-        },
-        {
-            "id": 137,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "30"
-                ],
-                "wpcf-details-data": [
-                    "<img class=\"alignnone size-full wp-image-144\" src=\"http://www.slamdesignz.com/wp-content/uploads/2017/01/holyGrailProto2.jpg\" alt=\"\" width=\"1036\" height=\"1300\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 135,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "30"
-                ],
-                "wpcf-details-data": [
-                    "<h1>The HolyGrail™</h1>\r\n<p>HolyGrail™ Is a multi functional Javascript component for creating rich and responsive horizontal navigation experience for any purpose.</p>\r\n<p>The idea came when we at eTurn needed to build a powerful horizontal experience for one of our clients. I thought why not building a reusable and adaptable component that can be used as a part of any project separate or core navigation system.</p>\r\n<p>HolyGrail™ accepts JSON and HTML so it can show a local static data like presentations or resumes, or rich dynamic data through web API so it can be integrated with any server side language.</p>"
-                ]
-            }
-        },
-        {
-            "id": 126,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "24"
-                ],
-                "wpcf-details-data": [
-                    "<h1>History</h1>\r\n\r\n<p><strong>2005 </strong>i started my career as a GFX designer and UI developer.</p>\r\n<p><strong>2009 </strong>i joined <a href=\"http://www.e-turn.co.uk\" target=\"_blank\">eTurn</a> as a junior UI developer</p>\r\n<p><strong>2011 </strong>I've been promoted to lead UI development team in eTurn</p>\r\n<p><strong>2011 </strong>I got my Bachelor Degree in business management from <a href=\"http://cu.edu.eg/\" target=\"_blank\">Cairo University</a></p>\r\n<p><strong>2013</strong> eTurn collaborated with <a href=\"http://www.activedd.com/\" target=\"_blank\">ActiveDD</a> to deliver some projects for <a href=\"https://www.google.com\" target=\"_blank\">Google</a></p>\r\n<p><strong>2014 </strong>I collaborated with <a href=\"http://www.masteryit.com/\" target=\"_blank\">MasteryIT</a> as a UX Consultant and Wordpress developer</p>\r\n<p><strong>2014 </strong>I collaborated with <a href=\"http://www.victorylink.com/\" target=\"_blank\">Victory Link</a> as a Front End developer</p>\r\n<p><strong>2014 </strong>I collaborated with <a href=\"http://www.breakpoint.com.eg/\" target=\"_blank\">Break Point Design Studio</a> as a Wordpress developer</p>\r\n<p><strong>2015 </strong>Joined Appenza after the merge between eTurn and Appenza.</p>\r\n<p><strong>2016 </strong>I've been promoted to be eTurn and Appenza UX Lead and Art Director</p>\r\n<p><strong>2017 </strong>I started a new journey by founding <a href=\"http://www.diatomz.com/\" target=\"_blank\">Diatomz</a></p>"
-                ],
-                "wpcf-background-color": [
-                    "#691b1b"
-                ]
-            }
-        },
-        {
-            "id": 114,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "111"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/12/sportmakers0.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/12/sportmakers1.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/12/sportmakers2.jpg\" />\r\n<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/12/sportmakers3.jpg\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ],
-                "wpcf-horizontal-show": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 113,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "111"
-                ],
-                "wpcf-details-data": [
-                    "<h1>Sport Makers Website</h1>\r\n\r\n<p>I've been asked to create website GFX designs for eTurn Client Sport Makers.</p>\r\n\r\n<p>Sport Makers is an international Sports Law & Management Firm based in Egypt. With a team of senior level and professional executive experts who combine strong academic backgrounds and hands-on professional experience in the Sports industry, Sports Makers builds on this experience, and our strategic business network and partnerships, to provide our clients with an unparalleled depth of service for supreme excellence and sustainable solutions for their business.</p>"
-                ],
-                "wpcf-live-link": [
-                    "1"
-                ],
-                "wpcf-live-link-url": [
-                    "https://sportmakers.com/"
-                ]
-            }
-        },
-        {
-            "id": 76,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "39"
-                ],
-                "wpcf-details-data": [
-                    "last details"
-                ]
-            }
-        },
-        {
-            "id": 75,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "39"
-                ],
-                "wpcf-details-data": [
-                    "test"
-                ]
-            }
-        },
-        {
-            "id": 74,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "24"
-                ],
-                "wpcf-details-data": [
-                    "<img src=\"http://www.slamdesignz.com/wp-content/uploads/2016/12/col.jpg\"  class=\"fit\" />"
-                ],
-                "wpcf-is-image": [
-                    "1"
-                ]
-            }
-        },
-        {
-            "id": 73,
-            "wpcf_details_data": {
-                "_wpcf_belongs_item_id": [
-                    "24"
-                ],
-                "wpcf-details-data": [
-                    "<h1>I'm Ahmed Islam</h1>\r\n\r\n<p>I am a self-taught UX/UI Developer and Graphics/Web Designer with more than 10 years of experience and sharing success with many clients across the globe in many varied and high profile projects both as part of a team and individually.</p>\r\n\r\n<p>I have an impressive ability to swiftly and accurately interpret client’s needs and goals and Offering practical solutions that are visually appealing and in consonance with the vision and values of the business.</p>\r\n\r\n<p>Through all these years i used to be the first end user for my projects, Using it from user perspective and seeing it through his eyes. By doing that i managed to achieve the best user experience in my projects.</p>\r\n\r\n<!--<p>Not only the impressive designs and slick experience are important but the code too. Clean, Smart and Effective code is essential principle for me and it is a part from my creed.</p>-->"
-                ],
-                "wpcf-background-color": [
-                    "#2c153a"
+                    "https://pairbnb.netlify.com/"
                 ]
             }
         }
+
+
     ]

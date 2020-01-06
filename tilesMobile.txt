@@ -89,8 +89,8 @@
         "order": "0004",
         "cssclass": "",
         "svgcode": "",
-        "goexternal": "1",
-        "externallink": "https://sperryfarms.netlify.com/",
+        "goexternal": "",
+        "externallink": "",
         "itemthumb": "https://lh3.googleusercontent.com/bZdFTdhHz5MqqP0GkG4Wy5F26LPEy_dx5d-jzmpgkHlwBVn2P3qpAX9EmryLr-CzOhMZSKUJs1GBL778SmSaGW3r8An5rKZK8dgABaNVSxVBpWA91fMSNr-egj0D7FwuSa_Ww63day8APbE3UsxTuYfVxnJaI_lUlNjHu0Zq13uK37GINfTxXARBqvmnMeyj_r6mlt-jyBQOWG8PggoAXuAsXWglVMGBItOLdNckZbLICUVXeapy_B1WZooTVkxivyjggfnY71Zl8_Y4N4aIigfzrM3LhjptWnPpAd8PD3nn2894T5KNcDesQTZZso3wmhSnfeXz-KJR6y0QDeC5FctAVNw4JSo9XDeKBTdjn-iuYn-2DqJpFbKCz0Uq0lRqy-4MyS53Pb7-vChFhWkTBXLDoZCmo2-GR-bQfQGXi5sMcojdbxhqmH-4HQrRPiim7SBWKyhFZXPhWreuqqGZGT-SQ3WmeVnD68_cMNAQ4Vce1ioqtTRhUV9RqIpHFqks5QUH1gAGBw2fkyzeg8TNgOYmzyMshCxXUrvbASXjUCzA1yguG_RiYVOiN09-P85RK4mfr7Y_20GuK5kw1oXz2BZRUGQ9l5foqxLlOrcq_W5PEsBKFlAEk4dZVu9AVel2BP94heed0L-V7Quw1EL4YOEp_5LOKcSey2pIuiKbml6OAyz-Ks_9gImPNI9OoRDYeKyGa9YFfne-wGDKGeEUVg41N4oCvHKV5MjO8Pqlh2fOgv1b=s414-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [
@@ -174,8 +174,8 @@
         "order": "0008",
         "cssclass": "",
         "svgcode": "",
-        "goexternal": "1",
-        "externallink": "https://www.atm-newengland.com/",
+        "goexternal": "",
+        "externallink": "",
         "itemthumb": "https://lh3.googleusercontent.com/XfUvR5wdtBfnKFIuVDNHq-Fc0I9Rz8Idz0wrKHYjQVNPPPITUa26UY5SLAn2ctr2A0glN3sK0v6069cq3j7srksOMCKDZRq-edgCDHINITbQSqDnipEVIXt4XtzIX8Tk-PmFihUONNhKTfaoOCdT0GsueJF-nJZ4e_2hE3w7Y931OuVKyvXVQdAowEAYwJsAV6_CvG92JGTjyp2lcVdaWYo0ZiNcjgAzkU7loQLbd2WiB3W2uHwXoSh2LqomYOe8-tXbtgcQ2yuAvfIx5MJTwktldvbLM8gNzh_EwMjtsHDkp3TB81yLO5cHzm13XKSRJIsXvR0JIvzQ51qn2ZYPsOokJc2kqlso5Cemz_eKJtu71nmltOEPlwiMJZloRievCA_kcJdBlAkHmSkqBvolHRYnpPMttO_8gLjiNF_u9CV3ezWmbcdsCF_J1U_yqn5krgAemlIVjghIxqVL_sN7M-YmMz9gLRh3ca7jKNYDBSBXFWO-ANxw_SRjb8J61_2EIT7dsY5mKwAr1eZUhHsNbDMeSSXb7geIeH_pC3NK01ohF7LQ-BkiIAK0ePVcB51S53wbmhJvP7VzgC1nQmI3tg5Q6dYyGFO32ZtvnzoDmQeeosgL4slOG78N7Q20DwZSvWBpVzgnIVvHmNgb0LGTEVEOa55qjq4-H711BzOoshJcuL1M113CpvKV0B5GTU1CEwE8cjieR4bOVWcgrREz6BR_m4ia6xtMnANQ1dXULTR6aB4S=s417-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [
@@ -219,8 +219,8 @@
         "order": "0010",
         "cssclass": "",
         "svgcode": "",
-        "goexternal": "1",
-        "externallink": "https://healfly.herokuapp.com/providers/search",
+        "goexternal": "",
+        "externallink": "",
         "itemthumb": "https://lh3.googleusercontent.com/H4MJBoAuDfFSGwIAGXRL-LVtGvgLT_gmJWoe2sGnTh3wYJZlQeS0jLCiYZumWvjgrpOsVgAYUycXNNfrTt2nxfUAcun2x14wSjqbw45kTVzWnK2SEt22nHuDtx-ljYIihJ7_-WeFlAsrweeMF3WD1Wc31qAcxGrgq7yblb9kcwlPqfcvezn9uM-nCzxyXva2VXGnz8XL8vJvRmjNMuTWFPj8dHUVHfWV5PAv-apShFeXT7gBMr_Fj4PujronTqE6jki8YtQQHGHvTA3ggAiL1ZrMkqXrWezTs1bFzuQIlVxBdA7XpWD1HrYTb5X_8Dx4RmkVriPOCHxtvt1CgtqgL6tFKy4jNITAtoc1NWBuholC0NzfuWGhj09F0a8NUfLSbZBbOcDXj9BeCByOfoLCFdD0TPI82ekOndMmzoMlttuT7N5DBWiCf7ISmWfh4IJFTCrPbBwRuhhohnGEn_Q2KYznAxLO-7fZZFbordDvIcUh4G9uKHp1LJWyy9h7wcH1oLZ8IEvrINQwnd3f6bN2z3I9ooqaoWgCAoNO0d-wpGn0NWg6vWzO7P2v7blVYOaWaKRBcvDzMTbvQ6gpPfSfIhUeqgxyooMUYqR3qGMIXEIJZ5FWZvr-EgeAZnYRAaAvb6PIWLteNZo8r2C5XuMRN-dxlNBrZPLmy8kJVmYHMfsFJfJXmKM6gcadxNVbPWb-XvQ9qDg75jRfG85AuzD5GrW5KVKqwt7Y0DhFScylqdnAhO0V=s404-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [
@@ -285,8 +285,8 @@
         "order": "0013",
         "cssclass": "",
         "svgcode": "",
-        "goexternal": "1",
-        "externallink": "https://pairbnb.netlify.com/",
+        "goexternal": "",
+        "externallink": "",
         "itemthumb": "https://lh3.googleusercontent.com/wUSS4i-b4UWiIOJtYpkSMRhR5rLI7HoWJAIAx7qpyN2VRoE1AtHmJvLIJiwCV4d-SsJbOrVP-dds38nfDLcUKHMTxbfQDa5lZ-OgT4Wy8TrOBq0Z6XxLawoMUSd4UQcHCKBGcvf1aOfiwv9sXgbzyvQnRiSryT5Ugq0ZlxRub4Skh7-lB_QcAuODyjbvXAYTU-AoV2vAlgXTyKpsqAq2oovsHT-AOSuccM6hdifiKPU3bCDUNAFCPvExGvpR8Fl9U923zuIEMsV3LOe08p-ZogHnqJko3KukFfkao7n_OCHC-WrcbzSdBeQPSZsRUHYWcPUGcN09RedZJ9ycLbF1B448H8Ow1uNX7r1VQfsSUgQ6Gql2i0nz7ZBWyfnDB0fYH8mGQzr0LaxHiuQU0cxjVQG9PBaxenaBy2MBpnOWLJAaDroVSwYkUBEqDDw2SPNv0O3J5BFn5sosyN1raQ0rtOnHLkXAUQ-yozT8SjiZ4lSedNnThtK-lK5fZi9wFv-s4OuBWQn8HbII-SYjnyycASYEBGJL_a4AOf0nq3GF36oD3VQSBzzwpmvQv4uxhfiiE-FXCSUBf0PiIN2Nwl3CMcMmn6k8j_MdVth5bUmyu0C-_c5nak5SGJNP2VLisG95BAMDvIGz9DT5uIhLcZytB2J-MrqQP4U0b1AXQUYpa4DGsqYpI030Zd56JcyfVDS9DEg9B6Ad1gP2hGkAggedtHirOkpGFJFbja42pQb0ekVkPZNu=s416-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [

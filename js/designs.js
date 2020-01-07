@@ -347,7 +347,6 @@ console.log('Thanks for checking out the code for my website! You can get a full
   
 
   window.onhashchange = function() {       
-    console.log(2)
     closeDetails()
   }
 
@@ -355,8 +354,6 @@ console.log('Thanks for checking out the code for my website! You can get a full
   function closeDetails(){
     canCloseDetails=false;
     //Reset URL
-    console.log(1)
-    // if (window.location.hash != ''){
     if (window.location.hash){
       window.location.hash='';
       history.pushState(null,null,'');

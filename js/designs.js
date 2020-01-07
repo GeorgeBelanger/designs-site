@@ -31,8 +31,8 @@ console.log('Thanks for checking out the code for my website! You can get a full
   var clickedUnitY=0;
   var detailsViewReady=false;
   var canCloseDetails=false;
-  var apiLink="https://www.georgebelanger.com/"
-  // var apiLink="http://127.0.0.1:5500/personalReactSite/"
+  // var apiLink="https://www.georgebelanger.com/"
+  var apiLink="http://127.0.0.1:5500/personalReactSite/"
   var imagesPromises=[];
   var preloader=document.getElementById('preloader');
   var unitsAreLoaded=false;
@@ -254,7 +254,6 @@ console.log('Thanks for checking out the code for my website! You can get a full
     /*if(window.location.pathname!='/')
       window.location.pathname='/';*/
     if(window.location.hash){
-  
       var hash = window.location.hash.substring(1);
   
       var watchUnitsAreLoaded;
@@ -344,11 +343,25 @@ console.log('Thanks for checking out the code for my website! You can get a full
       }
     }
   }
+  
+  
+
+  window.onhashchange = function() {       
+    console.log(2)
+    closeDetails()
+  }
+
+
   function closeDetails(){
     canCloseDetails=false;
     //Reset URL
-    window.location.hash='';
-    history.pushState(null,null,'');
+    console.log(1)
+    // if (window.location.hash != ''){
+    if (window.location.hash){
+      window.location.hash='';
+      history.pushState(null,null,'');
+    }
+    // }
   
     document.getElementById('detailsCore').classList.remove('active');
     document.getElementById('detailsCover').classList.remove('active');

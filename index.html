@@ -3,7 +3,8 @@
 
 <head>
 	<meta charset="utf-8" />
-	<link type="image/x-icon" href="fav.ico" rel="shortcut icon">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<link rel="stylesheet" href="designs.css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<meta name="theme-color" content="#000000">
@@ -41,13 +42,43 @@
 		
 		<div id="three-container"></div>
 		<div style='position:fixed; left: 50%; transform: translateX(-50%); top:45%; font-size:20px; font-family:Verdana; '>
-			I am a full-stack software developer that specializes in React and AWS Lambda. I write clean, simple code and want to learn from the best across all industries. 
+			I am a full-stack software developer that specializes in React and AWS Lambda. I write code that is clear over clever and simple over complex. I enjoy learning from a wide range of subjects from investing to psychology. 
 		</div>
 		<button style='position:fixed; left: 50%; transform: translateX(-50%); top:80%; font-size:30px; border:4px solid lightblue; color:lightblue; padding:20px; border-radius:10px; background-color:black;' >
 			See projects
 		</button>
 		</svg>
 	</button>
+	
+	<script type="x-shader/x-vertex" id="vertexshader">
+
+		attribute float scale;
+
+		void main() {
+
+			vec4 mvPosition = modelViewMatrix * vec4( position, 1.0 );
+
+			gl_PointSize = scale * ( 300.0 / - mvPosition.z );
+
+			gl_Position = projectionMatrix * mvPosition;
+
+		}
+
+	</script>
+
+	<script type="x-shader/x-fragment" id="fragmentshader">
+
+		uniform vec3 color;
+
+		void main() {
+
+			if ( length( gl_PointCoord - vec2( 0.5, 0.5 ) ) > 0.475 ) discard;
+
+			gl_FragColor = vec4( color, 1.0 );
+
+		}
+
+	</script>
 	<!-- <script src='js/three.min.js'></script> -->
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r75/three.min.js'></script>
 	<script src='js/TextGeometry.js'></script>
@@ -67,6 +98,7 @@
 				};
 			})();
 	</script>
+	
 	
 	
 </body>

@@ -537,6 +537,16 @@ p.dataText span.dataTxtShift {
     -webkit-transition: all ease-out .5s
 }
 
+#blurb-container{
+    position:fixed;
+    left: 50%;
+    transform:
+    translateX(-50%);
+    top:43%;
+    font-size:20px;
+    font-family:Verdana;
+}
+
 @media all and (orientation: portrait) {
     .detailsUnitSector {
         width:95vw
@@ -546,6 +556,9 @@ p.dataText span.dataTxtShift {
 @media only screen and (max-width: 600px) {
     .detailsCover {
         transform:translateX(-120vw)
+    }
+    #blurb-container{
+        font-size:17px;
     }
 }
 
@@ -584,3 +597,4 @@ p.dataText span.dataTxtShift {
         line-height: 6.3vh
     }
 }
+

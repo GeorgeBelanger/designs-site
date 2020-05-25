@@ -11,7 +11,7 @@
 	<title>George Belanger's Online Portfolio</title>
 </head>
 
-<body>
+<body id='body'>
 	<div class="flat" id="flat">
 
 	</div>
@@ -60,8 +60,6 @@
 	<script src='js/TweenMax.min.js'></script>
 	<script src='js/bas.js'></script>
 	<script src="js/designs.js"></script>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-	<script src="/js/jquery.mousewheel.js"></script>
 	<script>
 		THREE.ShapeUtils.triangulateShape = (function () {
 				var pnlTriangulator = new PNLTRI.Triangulator();
@@ -71,12 +69,15 @@
 			})();
 	</script>
 	<script>
-		$(function() {
-			$("body").mousewheel(function(evt, chg) {
-				this.scrollLeft -= (chg * 50); //need a value to speed up the change
-				evt.preventDefault();
-			});
-		});
+		function transformScrollVerticalScrollToHorizontalScroll(event) {
+			if (!event.deltaY) {
+				return;
+			}
+
+			event.currentTarget.scrollLeft += event.deltaY + event.deltaX;
+			event.preventDefault();
+		}
+		document.getElementById('body').addEventListener('wheel', transformScrollVerticalScrollToHorizontalScroll, { passive: false });
 	</script>
 	
 	

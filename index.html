@@ -75,9 +75,11 @@
 			}
 
 			event.currentTarget.scrollLeft += event.deltaY + event.deltaX;
-			event.preventDefault();
+			// event.preventDefault();
+			console.log(event.deltaY + event.deltaX);
 		}
-		document.getElementById('body').addEventListener('wheel', transformScrollVerticalScrollToHorizontalScroll, { passive: false });
+		var element = document.scrollingElement || document.documentElement;
+		element.addEventListener('wheel', transformScrollVerticalScrollToHorizontalScroll, { passive: false });
 	</script>
 	
 	

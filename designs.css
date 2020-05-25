@@ -331,7 +331,7 @@ p.dataText span.dataTxtShift {
     display: none
 }
 
-.detailsView.colorized .logo,.logo.fixed {
+.logo {
     z-index: 100
 }
 

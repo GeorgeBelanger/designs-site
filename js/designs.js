@@ -31,8 +31,8 @@ console.log('Thanks for checking out the code for my website! You can get a full
   var clickedUnitY=0;
   var detailsViewReady=false;
   var canCloseDetails=false;
-  // var apiLink="https://www.georgebelanger.com/"
-  var apiLink="http://127.0.0.1:5500/personalReactSite/"
+  var apiLink="https://www.georgebelanger.com/"
+  // var apiLink="http://127.0.0.1:5500/personalReactSite/"
   var imagesPromises=[];
   var preloader=document.getElementById('preloader');
   var unitsAreLoaded=false;

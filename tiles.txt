@@ -72,7 +72,7 @@
         "itemthumb": "https://lh3.googleusercontent.com/kKBsZymnn2T83lvtV8WrP1T3uz5r1lSXNyth1gTKv0dsG00ZGk3EABJAry_SWd-mjrPigjOJK6mJLyUoIn3-78q7SIyu9sgd4vRzxMHCU-m7qweH3rl2L_Xeom6GXqAP311xwG4Bg6M4A2xk4OSv2JK7CASi4S1fVoSFRN_e6F0YI05CaHEe4Q5r9ntTosix_atRbvPiFIO3BnJZyIdMlXRKQq95S9B4PKcVaQi-sFfURvbWA9_ozvDTgE-rH6-EK1eEAcoGToa_bRRhNHn8OkRXgxg8I0SZ83OEyr10STkezHmhYBKAl8VY_7Ik2JZ3kTGLfIpn5sMraPtXY40hSFQ1yWb0QQTi9Bi3G7gEDMoIvU0FFn74HaFJ3BvW4G2vCWBWPNLD7Xq3PsZYYunPYlm-hsI8m2GA8VY95Qy_OJGXfRgatvGVUuZsNMOhUeg9gTLS_ToMEkXieM-OkVbHqMFutSv-UaP9mjI63UrZRppWvqWpEZ9WxYmd6eLCGnYf8rUVW4Y3V0FXHrc4NrhjyzvgAN7u_QAIvuMZ1SuRs8tmlFB0fmn--95JmQezpBX0_u2nyyhRuUko5TBPMIGStM9giue-vGCsRGeOAgTEzRHd_ivWztIdwpJ8S1giHU5-Jyd-LgycvraFz7a62GeAkDWiGJSR6ReAQl0va7iZQv6Ni-nKDSOvqvGfU8PtC0IEr6vKbb11ca1kZPli7ez-CplGnOTZ8nKeaaHZkit08vWwpnd5=s324-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [
-            "http://www.slamdesignz.com/wp-content/uploads/2016/11/uxCover.jpg"
+            "https://i.pinimg.com/originals/69/7c/ed/697cede3aecb9677a88fb62760207926.jpg"
         ],
         "title": {
             "rendered": "Resume"
@@ -113,7 +113,7 @@
         "itemthumb": "https://lh3.googleusercontent.com/5vhedMrZeNaAep67TLb7Qyjb0wN8RMGh_mJe2kaeUNMsQwFfoLsE9mfddQWTfPMkPT5vMSl24MwkhOD42uaYqNYTK34glY8LJu8MOsZDF0fDYwMBiMYYDLIXGajnQuLMt_RkbHAy1np87Pc-Rc8vVe6fLOOPMMKKlXHrbGsFfx1P9FVfhdq5yPz427bQlPE4UbzubL9OggvllDA7UVHYUHvaH1R6jHNCWDow2PF7_Q3ESiQykMKpYtm1K6vyF6A3107XcZgjKf__ELEColRJCg2hqgpsDFisFYGm-FVfxrH8RORYM_PfJIe0Q5kYH4VVIuY3qFh_WiRTQUwKlTeQxopfI0k4D20_S3QwxmbpjTXyd475eW4eaaK-5QgK7sjiywdGziBvpJYIgSAnK-RH5-L-WFP-aZ17UVWQsNm-u7nJjYSGolqgdyWRSII2_0Bcvty-jUJR5pzLLr5WY_Zt__avM-0bJ8PE4y-tgI7vRaThtJvts8V2rir6QZE6qxXaZyRcpIhQ91wRfS0l451OR_7GF0HsSw7iCQ4ukjcL2lZAZ5QF4wNhMeKXSfHK4XZDqojtdgQdfdf-XIQIHAIB3tChDdL_6va7NnDuKBxk8Sk6tzdp8k8b2djAvN9wBck6R4OSZbrzmyXlk_ypZio2pwRvWleotnzOyg0ob6l94hXHeZSfehVtsizLNqoHd0QiGUWicByBQM8ALpzsRGr2pNPEjN3gKrwCbtxHnx-RQAGip22Y=s431-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [
-            "http://www.slamdesignz.com/wp-content/uploads/2018/10/pageInboxBanner.jpg"
+            "https://i.pinimg.com/originals/69/7c/ed/697cede3aecb9677a88fb62760207926.jpg"
         ],
         "title": {
             "rendered": "ConstantEnergyCapital"
@@ -135,7 +135,7 @@
         "itemthumb": "https://lh3.googleusercontent.com/bZdFTdhHz5MqqP0GkG4Wy5F26LPEy_dx5d-jzmpgkHlwBVn2P3qpAX9EmryLr-CzOhMZSKUJs1GBL778SmSaGW3r8An5rKZK8dgABaNVSxVBpWA91fMSNr-egj0D7FwuSa_Ww63day8APbE3UsxTuYfVxnJaI_lUlNjHu0Zq13uK37GINfTxXARBqvmnMeyj_r6mlt-jyBQOWG8PggoAXuAsXWglVMGBItOLdNckZbLICUVXeapy_B1WZooTVkxivyjggfnY71Zl8_Y4N4aIigfzrM3LhjptWnPpAd8PD3nn2894T5KNcDesQTZZso3wmhSnfeXz-KJR6y0QDeC5FctAVNw4JSo9XDeKBTdjn-iuYn-2DqJpFbKCz0Uq0lRqy-4MyS53Pb7-vChFhWkTBXLDoZCmo2-GR-bQfQGXi5sMcojdbxhqmH-4HQrRPiim7SBWKyhFZXPhWreuqqGZGT-SQ3WmeVnD68_cMNAQ4Vce1ioqtTRhUV9RqIpHFqks5QUH1gAGBw2fkyzeg8TNgOYmzyMshCxXUrvbASXjUCzA1yguG_RiYVOiN09-P85RK4mfr7Y_20GuK5kw1oXz2BZRUGQ9l5foqxLlOrcq_W5PEsBKFlAEk4dZVu9AVel2BP94heed0L-V7Quw1EL4YOEp_5LOKcSey2pIuiKbml6OAyz-Ks_9gImPNI9OoRDYeKyGa9YFfne-wGDKGeEUVg41N4oCvHKV5MjO8Pqlh2fOgv1b=s414-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [
-            "http://www.slamdesignz.com/wp-content/uploads/2018/10/pageInboxBanner.jpg"
+            "https://i.pinimg.com/originals/69/7c/ed/697cede3aecb9677a88fb62760207926.jpg"
         ],
         "title": {
             "rendered": "SperryFarms"
@@ -157,7 +157,7 @@
         "itemthumb": "https://lh3.googleusercontent.com/yeMtSb_M_bDL1euL80n4PvwitbGQVEmu0cgYR4WQmpnkSeC88Xc0-UocA5Z4F1ZtoXkm9f1V62H8rAqcktPkEcNt3RSpg11v32IwqUfuSQDkJmE5VIg51tce6I96ZIECk8QlEkKdV_Lgcrvj3UY0S72M9_WqSQmdIaR4JlJrHOF8oTs7WPSYWLYCydb8bclW5Vs2CHQh6m-LA3CfFJ__zytufPmmUvhwNcMurCD4z-uwHutRhMSph88qDfjxQxg3JaVBzGhYe2feDQKRl3CQ1NgepWxu-OKqV_VYz4VWqP0AIryhVmNkmrBSqHcoZ4QJGA4KUE2sdFazr0dmc7-g75SaAhCwijl0rdloXnBtJDHWU5J4SPXG-2ugto8Y9sr7_pQlMUk9EwwS1yRx6Ob3DU2gPXhc6P27tNdP7UqJ-Xu5Fr5U6vjYdwRlO41ODlQiOJ3Yldusu9ub79qbbExcwoVPbw4qYZciarI0a6I1W_GTfW_rZghuHOLrV99aKnpPBd2RbC-lv0GTIqABia6Q7pH6iBMJ0UBJ4duE_WiSYQ0EeZoj91JGuotOjws3RoT_fJ36j2_noX29rY5XC2xptGjZ01q9-N9fhE55kdq_bVZxH7ky4vS9MC0x9B8Jh1lWSp3d4E1adNYpHStRhrSId9dQvJ8d86ZVZUvMZaecfr6Qnz_ySivjTqEY-6VW9Va6fLFLLXEbFGAot9DB1HKFHAltJJqnnKshdv8qocIhU36jp8Ah=s400-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [
-            "http://www.slamdesignz.com/wp-content/uploads/2018/10/pageInboxBanner.jpg"
+            "https://i.pinimg.com/originals/69/7c/ed/697cede3aecb9677a88fb62760207926.jpg"
         ],
         "title": {
             "rendered": "FavoriteBookWebsite"
@@ -179,7 +179,7 @@
         "itemthumb": "https://lh3.googleusercontent.com/VbJTumfqdKwi30zysytSSdKsKL71c_OVcw5iD7w-26VqC4i89QbMaYsZvWU4AgXPeTMvTVXfcA74xAIt8AhDGnLjgpMZ6b0atYYsUihSSH983P1h-WGqvqu6YpSyeE2kzSLv1AfXc6rHylERkqxwIC5s0cRs8vaQO5s5FQUsqMxEq1hyz7FoEWNCqpjXUSRZHOeYRIcUrjAm7KiaVFVm7U-Z2v3fD1vKFYaqvVeAf1cNCrFLDuHJkoMQPsWyHiDtjc4HLiTbRQOD4sHwYpqSVccEfXjLit-s2soCPbr634zGAyMBRbvvh0ZuHwExKS0udQWOkKUUMXu6JJrbTKV7bYmRrXlYkC1VzdD_ww5Q8xgXC99UVMokexuA39MTnuZDY3AkI60wU8zLVk5HUBNkPyfCwGwnAUYgfCBO2upEd1fceWuqkwbZND5KpTJFJ5CkSxueOrZnHDrlC9JB-njZyRigjMmUoTsmFOeQOd20mcuRLQJLxU4oaeiV03s7H3GkZtmNDh6CGM1EtkiU7U1gTfuUWYBozjMb05N-xgS34dtEciJa3ViTC9lI5HqfMW_ys-5iKoP8Y5-xqR6kPFYBcchQilDGvr8fGC1LbjM4xkeYq-GRRs69Y-mK95fLN4h9utYMxBd1Rnw8Vn2YxS_5dIgcRFB39LJKih4t8nU0I5KkCbIMFHfdoNMZ73OJMKdS7Fgc9j-4Zak9IHAibmNBZcVLZ9702DxSYURob1epvjPjfe8W=s334-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [
-            "http://www.slamdesignz.com/wp-content/uploads/2016/11/is.jpg"
+            "https://i.pinimg.com/originals/69/7c/ed/697cede3aecb9677a88fb62760207926.jpg"
         ],
         "title": {
             "rendered": "Bird pictures"
@@ -201,7 +201,7 @@
         "itemthumb": "https://lh3.googleusercontent.com/XfUvR5wdtBfnKFIuVDNHq-Fc0I9Rz8Idz0wrKHYjQVNPPPITUa26UY5SLAn2ctr2A0glN3sK0v6069cq3j7srksOMCKDZRq-edgCDHINITbQSqDnipEVIXt4XtzIX8Tk-PmFihUONNhKTfaoOCdT0GsueJF-nJZ4e_2hE3w7Y931OuVKyvXVQdAowEAYwJsAV6_CvG92JGTjyp2lcVdaWYo0ZiNcjgAzkU7loQLbd2WiB3W2uHwXoSh2LqomYOe8-tXbtgcQ2yuAvfIx5MJTwktldvbLM8gNzh_EwMjtsHDkp3TB81yLO5cHzm13XKSRJIsXvR0JIvzQ51qn2ZYPsOokJc2kqlso5Cemz_eKJtu71nmltOEPlwiMJZloRievCA_kcJdBlAkHmSkqBvolHRYnpPMttO_8gLjiNF_u9CV3ezWmbcdsCF_J1U_yqn5krgAemlIVjghIxqVL_sN7M-YmMz9gLRh3ca7jKNYDBSBXFWO-ANxw_SRjb8J61_2EIT7dsY5mKwAr1eZUhHsNbDMeSSXb7geIeH_pC3NK01ohF7LQ-BkiIAK0ePVcB51S53wbmhJvP7VzgC1nQmI3tg5Q6dYyGFO32ZtvnzoDmQeeosgL4slOG78N7Q20DwZSvWBpVzgnIVvHmNgb0LGTEVEOa55qjq4-H711BzOoshJcuL1M113CpvKV0B5GTU1CEwE8cjieR4bOVWcgrREz6BR_m4ia6xtMnANQ1dXULTR6aB4S=s417-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [
-            "http://www.slamdesignz.com/wp-content/uploads/2018/10/pageInboxBanner.jpg"
+            "https://i.pinimg.com/originals/69/7c/ed/697cede3aecb9677a88fb62760207926.jpg"
         ],
         "title": {
             "rendered": "AtmNewEngland"
@@ -224,7 +224,7 @@
         "itemthumb": "https://lh3.googleusercontent.com/H4MJBoAuDfFSGwIAGXRL-LVtGvgLT_gmJWoe2sGnTh3wYJZlQeS0jLCiYZumWvjgrpOsVgAYUycXNNfrTt2nxfUAcun2x14wSjqbw45kTVzWnK2SEt22nHuDtx-ljYIihJ7_-WeFlAsrweeMF3WD1Wc31qAcxGrgq7yblb9kcwlPqfcvezn9uM-nCzxyXva2VXGnz8XL8vJvRmjNMuTWFPj8dHUVHfWV5PAv-apShFeXT7gBMr_Fj4PujronTqE6jki8YtQQHGHvTA3ggAiL1ZrMkqXrWezTs1bFzuQIlVxBdA7XpWD1HrYTb5X_8Dx4RmkVriPOCHxtvt1CgtqgL6tFKy4jNITAtoc1NWBuholC0NzfuWGhj09F0a8NUfLSbZBbOcDXj9BeCByOfoLCFdD0TPI82ekOndMmzoMlttuT7N5DBWiCf7ISmWfh4IJFTCrPbBwRuhhohnGEn_Q2KYznAxLO-7fZZFbordDvIcUh4G9uKHp1LJWyy9h7wcH1oLZ8IEvrINQwnd3f6bN2z3I9ooqaoWgCAoNO0d-wpGn0NWg6vWzO7P2v7blVYOaWaKRBcvDzMTbvQ6gpPfSfIhUeqgxyooMUYqR3qGMIXEIJZ5FWZvr-EgeAZnYRAaAvb6PIWLteNZo8r2C5XuMRN-dxlNBrZPLmy8kJVmYHMfsFJfJXmKM6gcadxNVbPWb-XvQ9qDg75jRfG85AuzD5GrW5KVKqwt7Y0DhFScylqdnAhO0V=s404-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [
-            "http://www.slamdesignz.com/wp-content/uploads/2018/10/pageInboxBanner.jpg"
+            "https://i.pinimg.com/originals/69/7c/ed/697cede3aecb9677a88fb62760207926.jpg"
         ],
         "title": {
             "rendered": "HealFly"
@@ -246,7 +246,7 @@
         "itemthumb": "https://lh3.googleusercontent.com/tLJcuJan28lq31kYgyH3E3tbqlrjkn3MCA0ddbOtqWODLnsKbj9mwkP4IVzu8Nf8X6i5--bbxN7cQ0i_qseRCeVmjQQnWMl3upqJFHRezGOlgulWqAn8HJNdAW3HL4YYP2t7_pJpkDNWAwj7X672b0kZ7eI-_nkVJeMVDEB73q0dfmKtgmo-5Rl9ID-xrBFWgETaQVVu5-Yp95AD6NXLjnkzpG8ANF0VdoQa_2HfrKniVpFsU7dhudahQGcSeRlkJP5P95r4W3LKByzmtWagQzZIQ0K5Zx1RbV2sohoF014X2s0oPT20NYwYkwxO5R-XR7EjQy1Y4bXSUBqZDSkrQo8mKd6ptqnjUcTAlcP1a2jOoIjNtxGhUC5SO5EKY8WagC2DO8c1QPXKBS8pH1lNjbAA8-nefgh6OnmClboo01fU06PzRf8SX5bZX7lVCMP0iZM38jT7ZmtGDfCH8gDKBno9pt8FSVwKoJ8eI0cZa8tolonRaQ2WwZYIycD1ouhtUcrmr9bi6Iuzv7lTgv6CWt_KxF0l3ATRLligxExhwSsif3knSuONUcI5WHv-do6WMbAYqToMNK4lKXU97eoUJtUGY4vNtwyBZovxZzlvhekY9naxJ88AdEeg_O_VHH-xcO9_sWAjsJ64VPXrVXS6dqAa93OwUKtYR0ngdXnPrrjAeTjDoyIm4mwamRZ3hg1tOvPC4QLY2d26Pq8LExIKrCd7zCEuQKch2qbrJgJR-klZJtN1=s341-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [
-            "http://www.slamdesignz.com/wp-content/uploads/2016/11/is.jpg"
+            "https://i.pinimg.com/originals/69/7c/ed/697cede3aecb9677a88fb62760207926.jpg"
         ],
         "title": {
             "rendered": "Travel videos"
@@ -268,7 +268,7 @@
         "itemthumb": "https://lh3.googleusercontent.com/ipqSWU_s0gcCNoUP6jWgSABlbfgA0WRvVFb8MnUYWm77QZLc9uF2muyy6JmJEHUWcUrIWPNGNGwN_L5bdleQ2UC70i2NEAnlfXlB8ecwt8ksl7hxBplXhf6cO0JysU0jT7vWtT2Kg0KmIw01d65b9jHqr4avuxOwXD5qZV1QGUdE-EW08daBMjhPAtZPY4u8iagSmP7CbzWVQRU2oaK2PRoFJhjcU-CGbLhGdFWpqo9sWlc9PSQ9jexiqCOpbEoP5CkViLkVZwmNfxheQnN5fTcaikTQDqda7ne6s3AhhB0gLsL3LiRfCO2frv4FZwKGIsY1K4kpqdq6TaQ6UegTepLDY5Ic-JB4fbkSfcjS5L2edDSFa75rku_AnQgBKTFz0uWJtX0tZj5oqw2L52vHhRd18UJ44Qh-MpG0S1rIa-fohtygsLyvPUQYimpHoWJouz2D0Vsok2YlaP8h_LkP5YNZ3PRjknqes6gjtXN3AQgo26HCIp4Lap9aAhDRejS9-C1-1Rdww00uW5gPQePmX87m0bxYsa7fS2kF18VhsOW6mkTfNogtU_WZAOpJdpQ42npgO8mBgMY-Zoijs_nbwnq7SxkAONthOHIPVyhgkra2l6-xIaqh1Yy0zDw2a0wi2H6FqugsjyQdt3VPiXCANQnTj_XlZjZIBzd0iCTX5GG6KtSfpU0uN2JpgPbNMOH-XdFMdILFdYAMDK0D4ZFIes0RiUspAZ2WhGsrKw31ADM-PAtB=s382-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [
-            "http://www.slamdesignz.com/wp-content/uploads/2018/10/pageInboxBanner.jpg"
+            "https://i.pinimg.com/originals/69/7c/ed/697cede3aecb9677a88fb62760207926.jpg"
         ],
         "title": {
             "rendered": "PodcastEpisodes"
@@ -290,7 +290,7 @@
         "itemthumb": "https://lh3.googleusercontent.com/wUSS4i-b4UWiIOJtYpkSMRhR5rLI7HoWJAIAx7qpyN2VRoE1AtHmJvLIJiwCV4d-SsJbOrVP-dds38nfDLcUKHMTxbfQDa5lZ-OgT4Wy8TrOBq0Z6XxLawoMUSd4UQcHCKBGcvf1aOfiwv9sXgbzyvQnRiSryT5Ugq0ZlxRub4Skh7-lB_QcAuODyjbvXAYTU-AoV2vAlgXTyKpsqAq2oovsHT-AOSuccM6hdifiKPU3bCDUNAFCPvExGvpR8Fl9U923zuIEMsV3LOe08p-ZogHnqJko3KukFfkao7n_OCHC-WrcbzSdBeQPSZsRUHYWcPUGcN09RedZJ9ycLbF1B448H8Ow1uNX7r1VQfsSUgQ6Gql2i0nz7ZBWyfnDB0fYH8mGQzr0LaxHiuQU0cxjVQG9PBaxenaBy2MBpnOWLJAaDroVSwYkUBEqDDw2SPNv0O3J5BFn5sosyN1raQ0rtOnHLkXAUQ-yozT8SjiZ4lSedNnThtK-lK5fZi9wFv-s4OuBWQn8HbII-SYjnyycASYEBGJL_a4AOf0nq3GF36oD3VQSBzzwpmvQv4uxhfiiE-FXCSUBf0PiIN2Nwl3CMcMmn6k8j_MdVth5bUmyu0C-_c5nak5SGJNP2VLisG95BAMDvIGz9DT5uIhLcZytB2J-MrqQP4U0b1AXQUYpa4DGsqYpI030Zd56JcyfVDS9DEg9B6Ad1gP2hGkAggedtHirOkpGFJFbja42pQb0ekVkPZNu=s416-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [
-            "http://www.slamdesignz.com/wp-content/uploads/2018/10/pageInboxBanner.jpg"
+            "https://i.pinimg.com/originals/69/7c/ed/697cede3aecb9677a88fb62760207926.jpg"
         ],
         "title": {
             "rendered": "PairBnb"
@@ -312,7 +312,7 @@
         "itemthumb": "https://lh3.googleusercontent.com/7fl3eoZT9hQLerSGMzn4q_OXE0PD0KyEj-cEfmgC4JqwsgjBsyBqfaOAF53hrFfiHwZR3pT_2sdCon4nkR1w3O7KA01JxkaINV1rW_P4vBZJQQQtyn1lTxW2halod1pGhq9C7IskMnKMhEwVDSRk9W2eI53_PI40Wx7ZaDOwoVKroVTLq_2JpzBjMHsj2abx9lZQMDZ_aCOKXi50eT9YilW_OjL27cciryK2T2pQe3raz7mkvK44r-erNJBay5p3XILpzHiWGlxThXz81HieDC6BUYYohT99wSFBu-RmWGIqDSh0op-cfrpCdiJrVsu15VXONuwmxX-vLVSU4wCgZBk8vVDDQ05Igk_ypcfFg1kreS097IUAzf_Yb5lEmjTLVexWo1toMi-ocXQ3WJdHfJlHsQGjbZEQ9rslBXyFlhk7iBYVjExWMmgNNRG0Kyq2iaJsKdgxQ-xdxVp5aVG4GYaOnykG0vEL3K2YhqS_ZwImjr39XMuS-8Dicdck-V6gqx5FZeg8luV1gUaS6UXWC_FtOWYpAcOhs0mRhxmCcr1Z8y9m0NUNvsN8Obl1E2Ify38mpjTKQLm7w324XofrbhZQ4oVJ8gEmKfBzi0JGo-N739rDxyN-JRBUCAqmclXcj827scT5ijHj4qpYnaWpcEbhZH7pO9LoRHNA2eLgkvZ5kx27tQUuQP0fKDX6osXcyZYauPvO7FM8tm6QaUduKfUzwGqffUJDTVSYmN8PiK4SBbc1=w653-h654-no",
         "itemshiftedthumbnail": "",
         "wpcf-date-cover": [
-            "http://www.slamdesignz.com/wp-content/uploads/2018/10/pageInboxBanner.jpg"
+            "https://i.pinimg.com/originals/69/7c/ed/697cede3aecb9677a88fb62760207926.jpg"
         ],
         "title": {
             "rendered": "OldPortfolio"

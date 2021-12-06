@@ -1064,4 +1064,5 @@ function createTweenScrubber(tween, seekSpeed) {
 
 }
 preloader.addEventListener('click', removePreloader)
+document.getElementById('seeProjectsButton').addEventListener('click', removePreloader)
 init();
